@@ -21,11 +21,10 @@
 
 - This *course* (*unit*) was originally designed for various **elite class** Bachelor students and Master students in some top Asia Pacific universities, including [Deakin University](https://www.deakin.edu.au) ([SIT742](https://www.deakin.edu.au/courses/unit?unit=SIT742)), and the partner university [Southwest University](https://www.swu.edu.cn) etc. (since 2015).
 - Materials in this module include resources collected from various open-source online repositories.
-- You are free to use, change and distribute this package.
-- If you found any issue/bug for this document, please submit an issue at [tulip-lab/Modern-Data-Science](https://github.com/tulip-lab/Modern-Data-Science/issues): [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/Modern-Data-Science)](https://github.com/tulip-lab/Modern-Data-Science/issues)
-- Pull requests are welcome: [![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/Modern-Data-Science)](https://github.com/tulip-lab/Modern-Data-Science/pulls) 
-- Prerequist unit :point_right: : [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Math--Foundations-brightgreen?style=plastic)](https://github.com/tulip-lab/math-foundation-for-data-scientists) 
+- If you found any issue/bug for this document, please submit an issue at [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/Modern-Data-Science)](https://github.com/tulip-lab/Modern-Data-Science/issues)
+- Prerequisite unit :point_right: : [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Math--Foundations-brightgreen?style=plastic)](https://github.com/tulip-lab/math-foundation-for-data-scientists) 
 - Subsequent unit :point_right: : [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Pattern--Classification-brightgreen?style=plastic)](https://github.com/tulip-lab/pattern-classification) 
+- Pull requests are welcome: [![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/Modern-Data-Science)](https://github.com/tulip-lab/Modern-Data-Science/pulls) 
 - Point of Contact :point_right: : [Prof. Gang Li](https://github.com/tuliplab)
 
 Prepared by :tulip: **[TULIP Lab](https://www.tulip.org.au/members)**
