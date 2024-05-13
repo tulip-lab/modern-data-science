@@ -19,11 +19,12 @@
 
 # Modern Data Science
 
-- This *course* (*unit*) was originally designed for various **elite class** Bachelor students and Research students in some top Asia Pacific universities, including [Deakin University](https://www.deakin.edu.au) ([SIT742](https://www.deakin.edu.au/courses/unit?unit=SIT742)), and the partner university [Southwest University](https://www.swu.edu.cn) etc. (since 2015).
+- This *course* (*unit*) was originally designed for various **elite class** Bachelor students and Master students in some top Asia Pacific universities, including [Deakin University](https://www.deakin.edu.au) ([SIT742](https://www.deakin.edu.au/courses/unit?unit=SIT742)), and the partner university [Southwest University](https://www.swu.edu.cn) etc. (since 2015).
 - Materials in this module include resources collected from various open-source online repositories.
 - You are free to use, change and distribute this package.
 - If you found any issue/bug for this document, please submit an issue at [tulip-lab/Modern-Data-Science](https://github.com/tulip-lab/Modern-Data-Science/issues): [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/Modern-Data-Science)](https://github.com/tulip-lab/Modern-Data-Science/issues)
 - Pull requests are welcome: [![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/Modern-Data-Science)](https://github.com/tulip-lab/Modern-Data-Science/pulls) 
+- Prerequist unit :point_right: : [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Math--Foundations-brightgreen?style=plastic)](https://github.com/tulip-lab/math-foundation-for-data-scientists) 
 - Subsequent unit :point_right: : [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Pattern--Classification-brightgreen?style=plastic)](https://github.com/tulip-lab/pattern-classification) 
 - Point of Contact :point_right: : [Prof. Gang Li](https://github.com/tuliplab)
 
@@ -45,9 +46,11 @@ Students will have access to a comprehensive range of subject materials, compris
 
 Additionally, students are encouraged to supplement their knowledge by conducting independent research, utilizing online resources or referring to textbooks that cover relevant information related to the topics under study.
 
+This unit needs a total of **32** class hours, including **22** hours lecturing, and **10** hours workshops, interactive discussion or student presentations. 
+
 ### :spiral_calendar: Lectures Plan
 
-This unit needs a total of **32** class hours, including **22** hours lecturing, and **10** hours interactive discussion or student presentations. The unit plan is as below:
+The unit's lecture plan is scheduled around **6** different modules as below:
 
 | :microscope: <br> Module  |  :label: <br> Category  | :ledger: <br> Topic |  :dart: <br> ULOs  |   
 | :----: |  :---: | ------|-------|  
@@ -59,9 +62,9 @@ This unit needs a total of **32** class hours, including **22** hours lecturing,
 | :five: | Advanced | :book: [Advanced Topics in Big Data](M05-Advanced/README.md) | [UL01, ULO3](M00-Induction/M00C-Logistics.md#unit-learning-outcomes) |   | Week 10-11 |
 
 
-### :spiral_calendar: Practicals Plan
+### :spiral_calendar: Workshop Plan
 
-The sister repository of this one can be found at: 
+The repository of this unit's workshop (practical classes) can be found at: 
 [![GitHub watchers](https://img.shields.io/badge/tulip--lab-sit742-brightgreen?style=plastic)](https://github.com/tulip-lab/sit742) 
 
 
@@ -71,26 +74,26 @@ You are recommended to do the practicals associated with every module. You may i
 - [Databricks - Community version](https://community.cloud.databricks.com/): the original contributor to [Apache Spark](https://spark.apache.org/).
 
 
-Students coming into this unit may be with various technical background, and you may schedule your own study based on your available time and background. We assume no prior knowledge on Python programming, though some understanding of computer programming will be optimal. The following is our recommended practical schedule.
+Students coming into this unit may be with various technical background, and you may schedule your own study based on your available time and background. We assume no prior knowledge on [Python programming](M01-Python/README.md), though some understanding of computer programming will be optimal. The following is our recommended practical schedule.
 
 | :microscope: <br> Session  |  :label: <br> Category  | :ledger: <br> Topic |  
 | :--: | :-- | :-- |  
-| :one: | :book: [Unit Induction](M00-Induction/README.md) |   |  | 
-| :two: | :book: [Python Foundations for Big Data](M01-Python/README.md) | [M02C, M02D](M01-Python/README.md) | |
-| :three: | :book: [Python Foundations for Big Data](M01-Python/README.md) | [M02E, M02F, M02G, M02H](M01-Python/README.md) | [![GitHub watchers](https://img.shields.io/badge/SIT742-Prac--Class-orange)](LabClasses/M01-Exercises.md) |
-| :four: | :book: [Big Data](M03-BigData/README.md) |  [M03D](M03-BigData/README.md) | |
-| :five: | :book: [Big Data](M03-BigData/README.md) |  [M03E](M03-BigData/README.md) | [![GitHub watchers](https://img.shields.io/badge/SIT742-Prac--Class-orange)](LabClasses/M03-Exercises.md) | :shipit: A1 |
-| :six: | :book: [Big Data Manipulation](M04-DataManipulation/README.md) |  [M04A, M04B, M04F](M04-DataManipulation/README.md) | |
-| :seven: | :book: [Big Data Manipulation](M04-DataManipulation/README.md) |  [M04G, M04H](M04-DataManipulation/README.md) | [![GitHub watchers](https://img.shields.io/badge/SIT742-Prac--Class-orange)](LabClasses/M04-Exercises.md)
-| :eight: | :book: [Big Data Analytics](M05-DataAnalytics/README.md) |  [M05A, M05B](M05-DataAnalytics/README.md) | |
-| :nine: | :book: [Big Data Analytics](M05-DataAnalytics/README.md) |  [M05C, M05E](M05-DataAnalytics/README.md) | | 
-| :keycap_ten: | :book: [Advanced Topics in Big Data](M06-Advanced/README.md) |  [M06A](M06-Advanced/README.md) | [![GitHub watchers](https://img.shields.io/badge/SIT742-Prac--Class-orange)](LabClasses/M05-Exercises.md) | :shipit: A2 |
-| :trophy: | :book: [Advanced Topics in Big Data](M06-Advanced/README.md) |  [M06B](M06-Advanced/README.md) | | :shipit: A3 |
+| :one: | :book: [Unit Induction](M00-Induction/README.md) | [M02C](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M02-Python/M02C-DataTypes.ipynb), [M02D](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M02-Python/M02D-ControlFlow.ipynb)   |  | 
+| :two: | :book: [Python Foundations for Big Data](M01-Python/README.md) | [M02E](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M02-Python/M02E-POP-OOP.ipynb), [M02F](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M02-Python/M02F-Files.ipynb) | |
+| :three: | :book: [Python Foundations for Big Data](M01-Python/README.md) | [M02G](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M02-Python/M02G-AdvDataTypes.ipynb), [M02H](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M02-Python/M02H-Packages.ipynb) | [![GitHub watchers](https://img.shields.io/badge/SIT742-Prac--Class-orange)](LabClasses/M01-Exercises.md) |
+| :four: | :book: [Big Data](M03-BigData/README.md) |  [M03D](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M03-BigData/M03D-DataAcquisition-I.ipynb) | |
+| :five: | :book: [Big Data](M03-BigData/README.md) |  [M03E](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M03-BigData/M03E-DataAcquisition-II.ipynb) | [![GitHub watchers](https://img.shields.io/badge/SIT742-Prac--Class-orange)](LabClasses/M03-Exercises.md) | :shipit: A1 |
+| :six: | :book: [Big Data Manipulation](M04-DataManipulation/README.md) |  [M04A](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M04-DataManipulation/M04A-DataWrangling.ipynb), [M04B](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M04-DataManipulation/M04B-EDA.ipynb), [M04F](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M04-DataManipulation/M04F-Spark.ipynb)  | |
+| :seven: | :book: [Big Data Manipulation](M04-DataManipulation/README.md) |  [M04G](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M04-DataManipulation/M04G-SparkSQL.ipynb), [M04H](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M04-DataManipulation/M04H-CS-WordCount.ipynb) | [![GitHub watchers](https://img.shields.io/badge/SIT742-Prac--Class-orange)](LabClasses/M04-Exercises.md)
+| :eight: | :book: [Big Data Analytics](M05-DataAnalytics/README.md) |  [M05A](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M05-DataAnalytics/M05A-TimeSeries.ipynb), [M05B](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M05-DataAnalytics/M05B-ARIMA.ipynb) | |
+| :nine: | :book: [Big Data Analytics](M05-DataAnalytics/README.md) |  [M05C](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M05-DataAnalytics/M05C-IsolationForest.ipynb), [M05E](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M05-DataAnalytics/M05E-ARMining.ipynb) | | 
+| :keycap_ten: | :book: [Advanced Topics in Big Data](M06-Advanced/README.md) |  [M06A](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M06-Advanced/M06A-IBMDP-30Seconds.ipynb) | [![GitHub watchers](https://img.shields.io/badge/SIT742-Prac--Class-orange)](LabClasses/M05-Exercises.md) | :shipit: A2 |
+| :trophy: | :book: [Advanced Topics in Big Data](M06-Advanced/README.md) |  [M06B](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M06-Advanced/M06B-IBMDP-Exploration.ipynb) | | :shipit: A3 |
 
 
 ### :u6e80: Assessment
 
-Every cohort of student might be assessed differently, depending on the specific requirements of your unit chair (professors).
+Every cohort of student might be assessed **differently**, depending on the specific requirements of your unit chair (professors of the university).
 
 The assessment is mainly aimed at assessing the students' achievement of the *Unit Learning Outcomes* (`ULOs`, a.k.a. objectives), and checking the students' mastery of those theory and methods covered in the unit.
 
@@ -101,7 +104,9 @@ The detailed assessment specification and marking rubrics can be found at:
 
 | :microscope: <br> Task  |   :man_teacher: <br> Category |  :dart: <br> [ULO1](S00-Induction/S00C-Logistics.md#ULO1)  | :dart: <br> [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |  :dart: <br> [ULO3](S00-Induction/S00C-Logistics.md#ULO3)  |  Percentage | 
 | :----: |  :---: | ------|-------| ----- |  ----- |  
-| :one: | Presentation | 50%| 25%  |   25%  | **100%** |   
+| :one: | Presentation | 50%| 25%  |   25%  | **30%** |   
+| :two: | Project | 25%| 50%  |   25%  | **50%** |   
+| :three: | Other | 33%| 33%  |   34%  | **20%** |   
 
 
 #### :spiral_calendar: Submission Due Dates
