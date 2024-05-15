@@ -9,7 +9,7 @@ In this module, you will learn the basic components of `Python` programming, and
 
 ## :notebook_with_decorative_cover: Lecture Slides Handouts
 
-- [Lecture: Python Programming](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742W02.pdf)  
+- [M01A: Python Programming](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742W02.pdf)  
 
 
 ## Sessions

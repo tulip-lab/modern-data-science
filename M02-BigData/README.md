@@ -3,13 +3,15 @@
 
 # Module: Big Data
 
-Data science is related to concepts such as *artificial intelligence*, *data mining*, *data analysis*, *big data* and *cloud computing*. Data science unifies statistics, data analysis, informatics, and their related methods in order to "understand and analyse actual phenomena" with data. It uses techniques and theories drawn from many fields within the context of mathematics, statistics, computer science, information science, and domain knowledge. However, data science is different from computer science and information science. 
+Data science is related to concepts such as *artificial intelligence*, *data mining*, *data analysis*, *big data* and *cloud computing*. Data science unifies statistics, data analysis, informatics, and their related methods in order to "understand and analyze actual phenomena" with data. It uses techniques and theories drawn from many fields within the context of mathematics, statistics, computer science, information science, and domain knowledge. However, data science is different from computer science and information science. 
 
 In this module, you will learn the basic concepts of `Big Data`, `Data Science`, and also learn how to do `Data Acquisition` with `Python` code.
 
 ## :notebook_with_decorative_cover: Lecture Slides Handouts
 
-- [Lecture: Big Data](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742W03.pdf)  
+- [M02A: Big Data (I)](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M02A.pdf)  
+- [M02B: Big Data (II)](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M02B.pdf)  
+
 
 ## Supplementary Resources
 
@@ -30,4 +32,11 @@ In this module, you will learn the basic concepts of `Big Data`, `Data Science`,
 - [Web Scraping Tutorial - Datacamp](https://www.datacamp.com/community/tutorials/web-scraping-using-python)
 - [Web Scraping Tutorial - Freecodecam](https://www.freecodecamp.org/news/web-scraping-python-tutorial-how-to-scrape-data-from-a-website/)
 
+-[Evolution Of Big Data
+](https://cloudtweaks.com/2013/11/evolution-of-big-data/)
 
+- [Timeline of Systematic Data and the Development of Computable Knowledge](https://www.wolframalpha.com/docs/timeline/computable-knowledge-history-6.html)
+-[Open Data](http://www.ted.com/talks/tim_berners_lee_the_year_open_data_went_worldwide/)
+-[the-global impact of open data](http://www.oreilly.com/data/free/the-global-impact-of-open-data.csp)
+-[What is Wrong with Open Data Sites?](https://blogs.scientificamerican.com/guest-blog/what-s-wrong-with-open-data-sites-and-how-we-can-fix-them/)
+-[Tutorial on LOD](http://tomheath.com/slides/2009-02-austin-linkeddata-tutorial.pdf)

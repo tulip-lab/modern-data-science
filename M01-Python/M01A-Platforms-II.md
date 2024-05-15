@@ -45,11 +45,11 @@ For `Mac` or `Linux` users, one common package is the [`JupyterLab`](https://jup
 
 Once completed, you can activate the `Jupyter notebook` by typing the command `jupyter notebook` in terminals, as shown in the following figure:
 
-![JupyterLab from terminal](figures/M01A-JupyterLab01.png "Launch the Jupyter Notebook in terminal")
+![JupyterLab from terminal](figures/M00A-JupyterLab01.png "Launch the Jupyter Notebook in terminal")
 
 If the installation and configures are completed, you should be able to access the `Jupyter notebooks` in a Web browser:
 
-![Jupyter Notebook in Browser](figures/M01A-JupyterLab02.png "Access the Jupyter Notebook in web browser")
+![Jupyter Notebook in Browser](figures/M00A-JupyterLab02.png "Access the Jupyter Notebook in web browser")
 
 ## What is next?
 
