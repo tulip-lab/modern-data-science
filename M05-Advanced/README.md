@@ -16,6 +16,11 @@ In this module, you will learn the privacy concerns coming from data analytics, 
 - [M05D: Generative AI (III)](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M05D.pdf)  :secret:
 - [M05E: Tabular Data Generation](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M05E.pdf)  
 
+## :microscope: Sessions
+
+| Topic         | Learning Activities         |   
+| ------------- |:-------------:|   
+| :page_with_curl: [Privacy in the Asia-Pacific Region](M05B-Laws.md) |  [![GitHub watchers](https://img.shields.io/badge/MDS-Learning--Activity-yellow)](M05B-Laws.md#Activity) |
 
 
 ![Readings](https://img.shields.io/badge/MDS-Readings-red)
