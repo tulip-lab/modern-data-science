@@ -5,13 +5,13 @@
 
 Data analytics is related to the key step in the [data science process](../M03-BigData/README.md), and it includes techniques that produce synthesised knowledge from the organised information. Broadly speaking, there are four primary types of data analytics: descriptive analysis (similar to [EDA](../M03-DataManipulation/README.md)), diagnostic analysis, predictive analysis and patterns discovery. Each type has a different goal and a different place in the data analysis process. It should be noted that machine learning techniques, such as supervised learning, unsupervised learning and deep learning are all popular data analytics methods.
 
-In this module, you will learn the *predictive methods*, including classification methods, time series method **ARIMA**, the *diagnostic* anomaly detection method **Isolation Forest**, and the frequent *pattern discovery* method **Apriori**.  
+In this module, you will learn the *predictive methods*, including classification methods, time series method **ARIMA**, the *diagnostic* anomaly detection method **Isolation Forest**, and the *pattern discovery* methods such as **Apriori**.  
 
 ## :notebook_with_decorative_cover: Lecture Slides Handouts
 
 - [M04A: Predictive Analysis (I)](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M04A.pdf)  
 - [M04B: Predictive Analysis (II)](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M04B.pdf)  
-- [M04C: Anomaly Detection](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M04C.pdf) 
+- [M04C: Unsupervised Learning and Anomaly Detection](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M04C.pdf) 
 - [M04D: Pattern Discovery](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M04D.pdf)  
 - [M04E: Case Study](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M04E.pdf) :secret:
 
@@ -42,3 +42,5 @@ In this module, you will learn the *predictive methods*, including classificatio
 
 - [Revolutionizing Anomaly Detection: Approaches and Guidelines](https://www.tulip.org.au/tutorials/anomaly-detection/ECML2023): ECML 2023 Tutorial, IJCAI 2023 Tutorial, by Ye Zhu, **Gang Li**, etc
   - [ECML 2023 Tutorial Handouts](https://github.com/zhuye88/TAD/blob/main/Slides_ECML23.pdf)  
+- Liu F.T., Ting K.M. and Zhou Z.H. (2008) [Isolation Forest](https://doi.org/10.1109%2FICDM.2008.17), In Proceedings of IEEE ICDM, p:413–422.
+- [Isolation Forest](https://en.wikipedia.org/wiki/Isolation_forest): Wikipedia
