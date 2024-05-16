@@ -182,8 +182,9 @@ In this program, we repeated print value of **i** and increase it by 1 each time
 Note that it is important to decide what the terminated condition should be. We can see from previous counting example that the terminated condition might be different in different `loop` structure.  
 
 
-## Activity
+## :biking_man: Activity
+![GitHub watchers](https://img.shields.io/badge/MDS-Learning--Activity-yellow)
 
-> 1. Load and run the notebook [M01D-ControlFlow.ipynb](https://github.com/tulip-lab/sit742/blob/main/Jupyter/M01-Python/M01D-ControlFlow.ipynb) from [![GitHub watchers](https://img.shields.io/badge/tulip--lab-sit742-brightgreen?style=plastic)](https://github.com/tulip-lab/sit742), and 
+> 1. Load and run the notebook [M01D-ControlFlow.ipynb](https://github.com/tulip-lab/sit742/blob/main/Jupyter/M02-Python/M02D-ControlFlow.ipynb) from [![GitHub watchers](https://img.shields.io/badge/tulip--lab-sit742-brightgreen?style=plastic)](https://github.com/tulip-lab/sit742), and 
 > 2. try different variants of the source code and see their effects.
 

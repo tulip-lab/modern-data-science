@@ -45,11 +45,11 @@ For `Mac` or `Linux` users, one common package is the [`JupyterLab`](https://jup
 
 Once completed, you can activate the `Jupyter notebook` by typing the command `jupyter notebook` in terminals, as shown in the following figure:
 
-![JupyterLab from terminal](figures/M00A-JupyterLab01.png "Launch the Jupyter Notebook in terminal")
+![JupyterLab from terminal](figures/M01A-JupyterLab01.png "Launch the Jupyter Notebook in terminal")
 
 If the installation and configures are completed, you should be able to access the `Jupyter notebooks` in a Web browser:
 
-![Jupyter Notebook in Browser](figures/M00A-JupyterLab02.png "Access the Jupyter Notebook in web browser")
+![Jupyter Notebook in Browser](figures/M01A-JupyterLab02.png "Access the Jupyter Notebook in web browser")
 
 ## What is next?
 
@@ -74,4 +74,4 @@ https://deakin.zoom.us/rec/share/9oH99q-bUM7lS9-qiAnKuXigq-H3Uf5GecfelWU0Ql4THtc
 - [How to install (py)Spark on MacOS (late 2020)](https://maelfabien.github.io/bigdata/SparkInstall/)
 - [Install Spark on Windows Laptop for Development](https://www.hackdeploy.com/install-spark-on-windows-laptop-for-development/)
 - [How to Run PySpark in a Jupyter Notebook](https://www.hackdeploy.com/how-to-run-pyspark-in-a-jupyter-notebook/)
-- 
+

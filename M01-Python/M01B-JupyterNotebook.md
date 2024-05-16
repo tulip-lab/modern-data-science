@@ -5,7 +5,7 @@
 
 `Jupyter Notebook` is an open source web application that you can use to create and share documents that contain live code, equations, visualisations, and text. 
 
-Traditionally, notebooks have been used to document research and make results reproducible, simply by rerunning the notebook on source data. Interactive notebooks are experiencing a rise in popularity, and they’re replacing PowerPoint in presentations, shared around organisations, and they’re even taking workload away from many software packages such as `Tableau`, or `Rapidminer`. Why would many data scientists choose to use a notebook instead of a favourite `Programming IDE` or `command line`? 
+Traditionally, notebooks have been used to document research and make results reproducible, simply by rerunning the notebook on source data. Interactive notebooks are experiencing a rise in popularity, and theyare replacing PowerPoint in presentations, shared around organisations, and they are even taking workload away from many software packages such as `Tableau`, or `Rapidminer`. Why would many data scientists choose to use a notebook instead of a favourite `Programming IDE` or `command line`? 
 
 - What they do offer is an environment for exploration, collaboration, and visualisation. 
 - Notebooks are typically used by data scientists for quick exploration tasks, and they can document the code/command in a notebook as you manipulate or analyse your data;. In that regard, they offer a number of advantages over any local scripts or tools. 
@@ -218,7 +218,7 @@ When you finish your work, you will need to close your `notebooks` and shutdown 
 
 
 
-## Activity
+## :biking_man: Activity
 
 ![GitHub watchers](https://img.shields.io/badge/MDS-Learning--Activity-yellow)
 > 1. Use either `Google Colab` or Self Hosting `Jupyter` as your `Python` platform; Get familiar with the related GUI interface;

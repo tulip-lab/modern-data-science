@@ -165,10 +165,10 @@ for key in sortedKeys:
 
 ```
 
-## Activity
+## :biking_man: Activity
 
 ![GitHub watchers](https://img.shields.io/badge/MDS-Learning--Activity-yellow)
-> 1. Load and run the notebook [M01G-AdvDataTypes.ipynb](https://github.com/tulip-lab/sit742/blob/main/Jupyter/M01-Python/M01G-AdvDataTypes.ipynb) from [![GitHub watchers](https://img.shields.io/badge/tulip--lab-sit742-brightgreen?style=plastic)](https://github.com/tulip-lab/sit742), and 
+> 1. Load and run the notebook [M01G-AdvDataTypes.ipynb](https://github.com/tulip-lab/sit742/blob/main/Jupyter/M02-Python/M02G-AdvDataTypes.ipynb) from [![GitHub watchers](https://img.shields.io/badge/tulip--lab-sit742-brightgreen?style=plastic)](https://github.com/tulip-lab/sit742), and 
 > 2. try different variants of the source code and see their effects.
 
 

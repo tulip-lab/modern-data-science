@@ -23,19 +23,19 @@ We would like you to go through the modules at the time of your ease, attend the
 - A series of `topic` pages: these provide the range of learning materials.
 - A series of `learning activities`: these provide the range of learning activities that will enable you to achieve the learning objectives, and those activities are corresponding to the session topic. You are expected to complete those learning activities on your own, but if there is any difficulty, you can ask the tutors in the practical class.  
 
-### Preliminary Module
+### :chains: Preliminary Module
 
 MDS assumes no prior `Python` experience, and any prior knowledge on programming will be a bonus: if you already have completed several data science units such as Deakin's `SIT720`, `SIT744`, you should be reasonably confident about your `Python` programming skills.
 
-In case that you have no `Python` experience, the [preliminary module - Module 2](../M01-Python/README.md) will prepare you in this aspect and enable you to continue into the [core modules](#core-modules). 
+In case that you have no `Python` experience, the [preliminary module - Module 1](../M01-Python/README.md) will prepare you in this aspect and enable you to continue into the [core modules](#core-modules). 
 
-### Core Modules
+### :bomb: Core Modules
 
 At the heart of the unit are three core modules. These core modules address the big data concepts and techniques that are relevant and important for data scientists and data analysts. Therefore, it is an essential requirement of this unit that all core modules are completed.
 
-### Advanced Module
+### :infinity: Advanced Module
 
-In additional to the [core modules](#core-modules), there are also a series of advanced topics. These topics are **optional** and organised into the [advanced module - Module 6](../M06-Advanced/README.md). Those topics either build on the information in the [core modules](#core-modules) by exploring concepts in greater depth, or introduce new, more specialised topics.
+In additional to the [core modules](#core-modules), there are also a series of advanced topics. These topics are **optional** and organised into the [advanced module - Module 5](../M05-Advanced/README.md). Those topics either build on the information in the [core modules](#core-modules) by exploring concepts in greater depth, or introduce new, more specialised topics.
 
 They are there for those wishing to expand their knowledge or explore specific topics in further detail. Depending on your course, you may like to choose those advanced topics which are most relevant.
 

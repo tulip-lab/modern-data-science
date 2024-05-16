@@ -11,7 +11,7 @@ Let's explore this new world of `Modern Data Science` (MDS) together!
 - [M00A: Unit Induction](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M00A.pdf)  
 - [M00B: Introduction to Modern Data Science](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M00B.pdf)  
 
-## Sessions
+## :microscope: Sessions
 
 | Topic         | Learning Activities           |  
 | ------------- |:-------------:|  
@@ -20,7 +20,19 @@ Let's explore this new world of `Modern Data Science` (MDS) together!
 | :page_with_curl: [Unit Logistics](M00C-Logistics.md)
 | :page_with_curl: [Unit Assessment](M00D-Assessment.md) | [![GitHub watchers](https://img.shields.io/badge/MDS-Learning--Activity-yellow)](M00D-Assessment.md#Activity) | 
 
+![Readings](https://img.shields.io/badge/MDS-Readings-red)
 
-[What is Data Science](http://cdn.oreilly.com/radar/2010/06/What_is_Data_Science.pdf)
+##### Modern Data Science
+
+- [What is Data Science](http://cdn.oreilly.com/radar/2010/06/What_is_Data_Science.pdf)
 
 - [50 Years of Data Science](https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf)
+
+
+##### Data Science and Others
+
+- [Evolution Of Big Data](https://cloudtweaks.com/2013/11/evolution-of-big-data/)
+
+- [A Gentle Guide to Machine Learning](https://monkeylearn.com/blog/gentle-guide-to-machine-learning/)
+- [Data science: An action plan for expanding the technical areas of the field of statistics](https://doi.org/10.1002/sam.11239)
+- [Job Comparison - Data Scientist vs Data Engineer vs Statistician](https://www.analyticsvidhya.com/blog/2015/10/job-comparison-data-scientist-data-engineer-statistician/)

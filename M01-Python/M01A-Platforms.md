@@ -5,7 +5,7 @@
 
 ## Why Programming?
 
-**Data science** is empirical synthesis of actionable knowledge from raw data through the data lifecycle process. It extracts knowledge, models or insights from the raw data in various forms, either structured or unstructured. In this way, it is similar to **data mining**. With data which can be messy, has missing values, inconsistent formatting, malformed records and nonsensical outliers in practice, data science employs a wide range of techniques to collect, wrangle, manipulate and analyse the data.
+**Data science** is empirical synthesis of actionable knowledge from raw data through the data lifecycle process. It extracts knowledge, models or insights from the raw data in various forms, either structured or unstructured. In this way, it is similar to **data mining**. With data which can be messy, has missing values, inconsistent formatting, malformed records and nonsensical outliers in practice, data science employs a wide range of techniques to collect, wrangle, manipulate and analyze the data.
 
 While there might be multiple tools (such as [RapidMiner](https://rapidminer.com/), [Weka](http://www.cs.waikato.ac.nz/ml/weka/), [Excel](https://www.microsoft.com/en-au/microsoft-365/excel) or [Tableau](https://www.tableau.com/)) out there to assist in this job, the flexibility of *developing your own programs* is the most preferred in data science. There are more than a few reasons behind it.
 

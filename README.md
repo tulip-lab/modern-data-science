@@ -138,3 +138,5 @@ Thanks goes to these wonderful people :tulip:
 
 
 Made with [contributors-img](https://contrib.rocks).
+
+- [Mining of Massive Datasets](http://www.mmds.org/)

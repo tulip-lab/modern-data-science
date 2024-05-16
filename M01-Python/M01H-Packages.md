@@ -112,10 +112,10 @@ https://deakin.zoom.us/rec/share/AyrtRY8qPFp3toec7iCjcF_aIZyahkFz3MQWW0xnSkZoc4g
 >[![Packages](https://img.youtube.com/vi/oLtJG622-VA/0.jpg)](https://www.youtube.com/watch?v=oLtJG622-VA   "Packages")
 
 
-## Activity
+## :biking_man: Activity
 
 ![GitHub watchers](https://img.shields.io/badge/MDS-Learning--Activity-yellow)
-> 1. Load and run the notebook [M01H-Packages.ipynb](https://github.com/tulip-lab/sit742/blob/main/Jupyter/M01-Python/M01H-Packages.ipynb) from [![GitHub watchers](https://img.shields.io/badge/tulip--lab-sit742-brightgreen?style=plastic)](https://github.com/tulip-lab/sit742), and try different variants of the source code.
+> 1. Load and run the notebook [M01H-Packages.ipynb](https://github.com/tulip-lab/sit742/blob/main/Jupyter/M02-Python/M02H-Packages.ipynb) from [![GitHub watchers](https://img.shields.io/badge/tulip--lab-sit742-brightgreen?style=plastic)](https://github.com/tulip-lab/sit742), and try different variants of the source code.
 > 2. Write code to implement the following tasks: a) Import the library math from standard Python libraries; b) Define a variable and assign an integer value to it (smaller than 20); c) Use factorial() function (an object in math library) to calculate the factorial of the variable; d) and print its value.
 > 3. Write code to implement the following tasks: a) Write a function that takes an integer variable and returns its factorial; b) Use this function to find the factorial of the variable defined in above; c) Check whether your answers match?
 

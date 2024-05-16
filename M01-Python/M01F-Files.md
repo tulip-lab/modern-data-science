@@ -205,10 +205,10 @@ https://deakin.zoom.us/rec/share/x6Kl9QDf-29xd3Y_ZCvFXtcOKA5PTpuvK3gCZkRH7KphMPa
 
 >[![Files](https://img.youtube.com/vi/T-MNr0viTh4/0.jpg)](https://www.youtube.com/watch?v=T-MNr0viTh4    "Files")
 
-## Activity
+## :biking_man: Activity
 
 ![GitHub watchers](https://img.shields.io/badge/MDS-Learning--Activity-yellow)
-> 1. Load and run the notebook [M01F-Files.ipynb](https://github.com/tulip-lab/sit742/blob/main/Jupyter/M01-Python/M01F-Files.ipynb) from [![GitHub watchers](https://img.shields.io/badge/tulip--lab-sit742-brightgreen?style=plastic)](https://github.com/tulip-lab/sit742), and 
+> 1. Load and run the notebook [M01F-Files.ipynb](https://github.com/tulip-lab/sit742/blob/main/Jupyter/M02-Python/M02F-Files.ipynb) from [![GitHub watchers](https://img.shields.io/badge/tulip--lab-sit742-brightgreen?style=plastic)](https://github.com/tulip-lab/sit742), and 
 > 2. try different variants of the source code and see their effects.
 
 
