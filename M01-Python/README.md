@@ -12,7 +12,7 @@ It is **not** the goal or purpose of `MDS` unit to teach `Python`, though in thi
 
 ## :notebook_with_decorative_cover: Lecture Slides Handouts
 
-- [M01A: Python Programming](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742W02.pdf)  :desktop_computer:
+- [M01A: Python Programming](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M01A.pdf)  :desktop_computer:
 
 
 ## :microscope: Sessions

@@ -45,6 +45,8 @@ In this module, you will learn the data wrangling, exploratory data analysis and
 - [Turning Powerful Stats Into Art](https://www.ted.com/talks/chris_jordan_turning_powerful_stats_into_art?language=en&amp;t-50788)
 - [The Best Stats You've Ever Seen](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen)
 - [Data Quality: Garbage In Garbage Out](https://towardsdatascience.com/data-quality-garbage-in-garbage-out-df727030c5eb)
+- [A Visual Introduction to Machine Learning (I)](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+- [A Visual Introduction to Machine Learning (II)](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
 - Infographics
   - [PInterest: Big Data](https://www.pinterest.com.au/search/pins/?q=big%20data)
   - [PInterest: Data Science](https://www.pinterest.com.au/search/pins/?q=data%20science)

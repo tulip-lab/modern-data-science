@@ -11,8 +11,9 @@ In this module, you will learn the *predictive methods*, including classificatio
 
 - [M04A: Predictive Analysis (I)](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M04A.pdf)  
 - [M04B: Predictive Analysis (II)](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M04B.pdf)  
-- [M04C: Pattern Discovery](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M04C.pdf)  
-- [M04D: Anomaly Detection](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M04D.pdf) 
+- [M04C: Anomaly Detection](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M04C.pdf) 
+- [M04D: Pattern Discovery](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M04D.pdf)  
+- [M04E: Case Study](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M04E.pdf) :secret:
 
 
 
@@ -25,7 +26,7 @@ In this module, you will learn the *predictive methods*, including classificatio
 - Yishuo Zhang, **Gang Li**, Birgit Muskat, Quan Vu and Rob Law. [Predictivity of tourism demand data](https://doi.org/10.1016/j.annals.2021.103234). Annals of Tourism Research, 2021.
 - Yishuo Zhang, **Gang Li**, Birgit Muskat, and Rob Law. [Tourism demand forecasting: A decomposed deep learning approach](https://dx.doi.org/10.1177/0047287520919522). Journal of Travel Research, 2020.
 
-##### Frequent Pattern Mining
+##### Pattern Mining
 
 - [Frequent Itemsets - Book Chapter](http://infolab.stanford.edu/~ullman/mmds/ch6.pdf) 
 - Rosanna Leung, Jia Rong, **Gang Li**, Rob Law. [Personality Differences and Hotel Web Design Study Using Targeted Positive and Negative Association Rule Mining](https://dx.doi.org/10.1080/19368623.2013.723995). Journal of Hospitality Marketing & Management, 22(7): 701-727,2013.
@@ -35,6 +36,7 @@ In this module, you will learn the *predictive methods*, including classificatio
 - Rob Law, Jia Rong, Huy Quan Vu, **Gang Li**, Andy Lee. [Identifying changes and trends in Hong Kong outbound tourism](https://dx.doi.org/10.1016/j.tourman.2010.09.011). Tourism management, 32(5): 1106-1114,2011.
 - Shaowu Liu, Rob Law, Jia Rong, **Gang Li**, and John Hall. [Analyzing changes in hotel customers' expectations by trip mode](https://dx.doi.org/10.1016/j.ijhm.2012.11.011). International Journal of Hospitality Management, 34: 359-371,2013.
 - **Gang Li**, Rob Law, Huy Quan Vu, Jia Rong, Xinyuan Roy Zhao. [Identifying emerging hotel preferences using Emerging Pattern Mining technique](https://dx.doi.org/10.1016/j.tourman.2014.06.015). Tourism Management, 46: 311-321,2015.
+- **Gang Li**, Rob Law, Jinlong Wang. [Analyzing International Travelers' Profile with Self-Organizing Maps](https://dx.doi.org/10.1080/10548400903579647). Journal of travel & tourism marketing, 27(2): 113-131,2010.
 
 ##### Anomaly Detection
 

@@ -56,7 +56,7 @@ The unit's lecture plan is scheduled around **6** different modules as below:
 | :zero: | Preliminary | :book: [Unit Induction](M00-Induction/README.md) | [ULO1](M00-Induction/M00C-Logistics.md#unit-learning-outcomes) |  | Week 01 |
 | :one: | Preliminary | :book: [Python Foundations for Big Data](M01-Python/README.md) | [ULO1, ULO2](M00-Induction/M00C-Logistics.md#unit-learning-outcomes) | [![GitHub watchers](https://img.shields.io/badge/SIT742-Prac--Class-orange)](LabClasses/M01-Exercises.md) | Week 01-03 |
 | :two: | Core | :book: [Big Data](M02-BigData/README.md) | [UL02, UL03](M00-Induction/M00C-Logistics.md#unit-learning-outcomes) | [![GitHub watchers](https://img.shields.io/badge/SIT742-Prac--Class-orange)](LabClasses/M03-Exercises.md) | Week 04-05 |
-| :three: | Core | :book: [Big Data Manipulation](M04-DataManipulation/README.md) | [ULO4, UL05](M00-Induction/M00C-Logistics.md#unit-learning-outcomes) | [![GitHub watchers](https://img.shields.io/badge/SIT742-Prac--Class-orange)](LabClasses/M04-Exercises.md)  | Week 06-07 |
+| :three: | Core | :book: [Big Data Manipulation](M03-DataManipulation/README.md) | [ULO4, UL05](M00-Induction/M00C-Logistics.md#unit-learning-outcomes) | [![GitHub watchers](https://img.shields.io/badge/SIT742-Prac--Class-orange)](LabClasses/M04-Exercises.md)  | Week 06-07 |
 | :four: | Core | :book: [Big Data Analytics](M04-DataAnalytics/README.md) | [ULO4, UL05](M00-Induction/M00C-Logistics.md#unit-learning-outcomes) | [![GitHub watchers](https://img.shields.io/badge/SIT742-Prac--Class-orange)](LabClasses/M05-Exercises.md) | Week 08-09 |
 | :five: | Advanced | :book: [Advanced Topics in Big Data](M05-Advanced/README.md) | [UL01, ULO3](M00-Induction/M00C-Logistics.md#unit-learning-outcomes) |   | Week 10-11 |
 
@@ -99,7 +99,7 @@ The assessment is mainly aimed at assessing the students' achievement of the *Un
 #### :book: Assessment Plan
 
 The detailed assessment specification and marking rubrics can be found at:
-[S00D-Assessment](S00-Induction/S00D-Assessment.md). The relationship between each assessment task and the ULOs are shown as follows:
+[M00D-Assessment](M00-Induction/M00D-Assessment.md). The relationship between each assessment task and the ULOs are shown as follows:
 
 | :microscope: <br> Task  |   :man_teacher: <br> Category |  :dart: <br> [ULO1](S00-Induction/S00C-Logistics.md#ULO1)  | :dart: <br> [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |  :dart: <br> [ULO3](S00-Induction/S00C-Logistics.md#ULO3)  |  Percentage | 
 | :----: |  :---: | ------|-------| ----- |  ----- |  
