@@ -45,11 +45,18 @@ Students will have access to a comprehensive range of subject materials, compris
 
 Additionally, students are encouraged to supplement their knowledge by conducting independent research, utilizing online resources or referring to textbooks that cover relevant information related to the topics under study.
 
-This unit needs a total of **32** class hours, including **22** hours lecturing, and **10** hours workshops, interactive discussion or student presentations. 
+This unit needs a total of **32** class hours, including **22** hours lecturing, and **10** hours workshops, interactive discussion or student presentations.
 
 ### :spiral_calendar: Lectures Plan
 
 The unit's lecture plan is scheduled around **6** different modules as below:
+
+<details><summary> :secret: </summary>
+
+>All lecture slides handouts are password protected, and available for Deakin [SIT742](https://www.deakin.edu.au/courses/unit?unit=SIT742) students on [CloudDeakin](https://d2l.deakin.edu.au) site. 
+</details>
+
+
 
 | :microscope: <br> Module  |  :label: <br> Category  | :ledger: <br> Topic |  :dart: <br> ULOs  |   
 | :----: |  :---: | ------|-------|  
@@ -87,7 +94,7 @@ Students coming into this unit may be with various technical background, and you
 | :eight: | :book: [Data Analytics](M05-DataAnalytics/README.md) |  [M05A](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M05-DataAnalytics/M05A-TimeSeries.ipynb), [M05B](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M05-DataAnalytics/M05B-ARIMA.ipynb) | |
 | :nine: | :book: [Data Analytics](M05-DataAnalytics/README.md) |  [M05C](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M05-DataAnalytics/M05C-IsolationForest.ipynb), [M05E](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M05-DataAnalytics/M05E-ARMining.ipynb) | | 
 | :keycap_ten: | :book: [Advanced Topics in Data Science](M06-Advanced/README.md) |  [M06A](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M06-Advanced/M06A-IBMDP-30Seconds.ipynb), [M06B](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M06-Advanced/M06B-IBMDP-Exploration.ipynb) | [![GitHub watchers](https://img.shields.io/badge/SIT742-Prac--Class-orange)](LabClasses/M05-Exercises.md) | :shipit: A2 |
-| :trophy: | :book: [Advanced Topics in Data Science](M06-Advanced/README.md) |  [M06C](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M06-Advanced/M06C-GAN.ipynb), [M06D](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M06-Advanced/M06D-Ganblr.ipynb) | | :shipit: A3 |
+| :trophy: | :book: [Advanced Topics in Data Science](M06-Advanced/README.md) |  [M06D](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M06-Advanced/M06D-GAN.ipynb), [M06E](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M06-Advanced/M06E-Ganblr.ipynb) | | :shipit: A3 |
 
 
 ### :u6e80: Assessment
