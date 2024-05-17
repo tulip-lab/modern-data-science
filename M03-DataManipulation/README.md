@@ -26,7 +26,10 @@ In this module, you will learn the data wrangling, exploratory data analysis and
 
 ##### Data Wrangling
 
+ - [Tidy Data](https://doi.org/10.18637/jss.v059.i10), Wickham, H. (2014). Journal of Statistical Software, 59(10), 1-23.
+- [Data Glitches: Monsters in Your Data](https://doi.org/10.1007/978-3-642-36257-6_8)
 - [Data Scientists Spend Most of Their Time Cleaning Data](https://whatsthebigdata.com/2016/05/01/data-scientists-spend-most-of-their-time-cleaning-data/)
+- [Data Wrangling](http://vis.stanford.edu/files/2011-DataWrangling-IVJ.pdf)
 - Pandas
   - [Data Wrangling in Pandas](https://towardsdatascience.com/data-wrangling-in-pandas-a-downloadable-cheatsheet-84326d255a7b)
   - [Data Wrangling in Pandas - DataCamp](https://www.datacamp.com/community/blog/pandas-cheat-sheet-python)
