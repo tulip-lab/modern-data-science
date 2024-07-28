@@ -45,7 +45,7 @@ Students will have access to a comprehensive range of subject materials, compris
 
 Additionally, students are encouraged to supplement their knowledge by conducting independent research, utilizing online resources or referring to textbooks that cover relevant information related to the topics under study.
 
-This unit needs a total of **32** class hours, including **22** hours lecturing, and **10** hours workshops, interactive discussion or student presentations.
+This unit needs a total of **44** class hours, including **22** hours lecturing, and **22** hours workshops, interactive discussion or student presentations.
 
 ### :spiral_calendar: Lectures Plan
 
@@ -131,6 +131,7 @@ It is expected that you will submit the assessment component on time. You will n
 
 This course recommended several key references:
 
+- [Mining of Massive Datasets](http://www.mmds.org/)
 - [Doing Data Science: Straight Talk from the Frontline](https://www.amazon.com.au/Doing-Data-Science-Straight-Frontline-ebook/dp/B00FRSNHDC), by Cathy O'Neil, Rachel Schutt
 - [Learning Spark: Lightning-Fast Data Analytics](https://www.amazon.com.au/Learning-Spark-Lightning-Fast-Data-Analytics-ebook/dp/B08F9WVFCT/ref=sr_1_1?crid=2LJKCWLTUEPRW&dib=eyJ2IjoiMSJ9.g-CZRop5dPTITKwLvwnDWFD4EqeBs_7DeSIeeOwV98x8CuqARpIHlxP9yHuwpejIdRLBkX_dcxYUrcperP0aIAwiwGhpAeFGBjZnrPU6eWy_h667LtGPQZh0-EuBSdQWLT9XikdJwfeXkuSOCvgbtBOD4kR8ZMKQ1OFuSkOf_DZgrGMW9ohIJvJVTKHof69MA_w3FWcV2dCsQBiw-WcR0jESsrt9JTQ9woAdgele94w.orIyTBagx3k6ZPYVU82NqF5Nzn2cbA_V54LKpmCl9Q0&dib_tag=se&keywords=learning+spark&s=digital-text&sprefix=learning+spar,digital-text,417&sr=1-1), by Jules S. Damji,  et al.
 
@@ -146,4 +147,3 @@ Thanks goes to these wonderful people :tulip:
 
 Made with [contributors-img](https://contrib.rocks).
 
-- [Mining of Massive Datasets](http://www.mmds.org/)
