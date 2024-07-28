@@ -45,7 +45,7 @@ Students will have access to a comprehensive range of subject materials, compris
 
 Additionally, students are encouraged to supplement their knowledge by conducting independent research, utilizing online resources or referring to textbooks that cover relevant information related to the topics under study.
 
-This unit needs a total of **32** class hours, including **22** hours lecturing, and **10** hours workshops, interactive discussion or student presentations.
+This unit needs a total of **44** class hours, including **22** hours lecturing, and **22** hours workshops, interactive discussion or student presentations.
 
 ### :spiral_calendar: Lectures Plan
 
@@ -88,13 +88,13 @@ Students coming into this unit may be with various technical background, and you
 | :two: | :book: [Python Foundations for Data Science](M01-Python/README.md) | [M02E](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M02-Python/M02E-POP-OOP.ipynb), [M02F](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M02-Python/M02F-Files.ipynb) | |
 | :three: | :book: [Python Foundations for Data Science](M01-Python/README.md) | [M02G](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M02-Python/M02G-AdvDataTypes.ipynb), [M02H](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M02-Python/M02H-Packages.ipynb) | [![GitHub watchers](https://img.shields.io/badge/SIT742-Prac--Class-orange)](LabClasses/M01-Exercises.md) |
 | :four: | :book: [Big Data](M03-BigData/README.md) |  [M03D](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M03-BigData/M03D-DataAcquisition-I.ipynb), [M03E](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M03-BigData/M03E-DataAcquisition-II.ipynb)  | |
-| :five: | :book: [Big Data](M03-BigData/README.md) |  [M03X](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M03-BigData/M03X-DataWrangling.ipynb), [M04A](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M04-DataManipulation/M04A-DataWrangling.ipynb) | [![GitHub watchers](https://img.shields.io/badge/SIT742-Prac--Class-orange)](LabClasses/M03-Exercises.md) | :shipit: A1 |
+| :five: | :book: [Big Data](M03-BigData/README.md) |  [M03X](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M03-BigData/M03X-DataWrangling-I.ipynb), [M04A](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M04-DataManipulation/M04A-DataWrangling-II.ipynb) | [![GitHub watchers](https://img.shields.io/badge/SIT742-Prac--Class-orange)](LabClasses/M03-Exercises.md) | :shipit: A1 |
 | :six: | :book: [Data Manipulation](M04-DataManipulation/README.md) |  [M04B](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M04-DataManipulation/M04B-EDA.ipynb), [M04F](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M04-DataManipulation/M04F-Spark.ipynb)  | |
 | :seven: | :book: [Data Manipulation](M04-DataManipulation/README.md) |  [M04G](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M04-DataManipulation/M04G-SparkSQL.ipynb), [M04H](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M04-DataManipulation/M04H-CS-WordCount.ipynb) | [![GitHub watchers](https://img.shields.io/badge/SIT742-Prac--Class-orange)](LabClasses/M04-Exercises.md)
 | :eight: | :book: [Data Analytics](M05-DataAnalytics/README.md) |  [M05A](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M05-DataAnalytics/M05A-TimeSeries.ipynb), [M05B](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M05-DataAnalytics/M05B-ARIMA.ipynb) | |
 | :nine: | :book: [Data Analytics](M05-DataAnalytics/README.md) |  [M05C](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M05-DataAnalytics/M05C-IsolationForest.ipynb), [M05E](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M05-DataAnalytics/M05E-ARMining.ipynb) | | 
 | :keycap_ten: | :book: [Advanced Topics in Data Science](M06-Advanced/README.md) |  [M06A](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M06-Advanced/M06A-IBMDP-30Seconds.ipynb), [M06B](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M06-Advanced/M06B-IBMDP-Exploration.ipynb) | [![GitHub watchers](https://img.shields.io/badge/SIT742-Prac--Class-orange)](LabClasses/M05-Exercises.md) | :shipit: A2 |
-| :trophy: | :book: [Advanced Topics in Data Science](M06-Advanced/README.md) |  [M06D](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M06-Advanced/M06D-GAN.ipynb), [M06E](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M06-Advanced/M06E-Ganblr.ipynb) | | :shipit: A3 |
+| :trophy: | :book: [Advanced Topics in Data Science](M06-Advanced/README.md) |  [M06D](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M06-Advanced/M06D-GAN-ImageGeneration.ipynb), [M06E](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M06-Advanced/M06E-GANBLR-TabularDataGeneration.ipynb) | | :shipit: A3 |
 
 
 ### :u6e80: Assessment
@@ -131,6 +131,7 @@ It is expected that you will submit the assessment component on time. You will n
 
 This course recommended several key references:
 
+- [Mining of Massive Datasets](http://www.mmds.org/)
 - [Doing Data Science: Straight Talk from the Frontline](https://www.amazon.com.au/Doing-Data-Science-Straight-Frontline-ebook/dp/B00FRSNHDC), by Cathy O'Neil, Rachel Schutt
 - [Learning Spark: Lightning-Fast Data Analytics](https://www.amazon.com.au/Learning-Spark-Lightning-Fast-Data-Analytics-ebook/dp/B08F9WVFCT/ref=sr_1_1?crid=2LJKCWLTUEPRW&dib=eyJ2IjoiMSJ9.g-CZRop5dPTITKwLvwnDWFD4EqeBs_7DeSIeeOwV98x8CuqARpIHlxP9yHuwpejIdRLBkX_dcxYUrcperP0aIAwiwGhpAeFGBjZnrPU6eWy_h667LtGPQZh0-EuBSdQWLT9XikdJwfeXkuSOCvgbtBOD4kR8ZMKQ1OFuSkOf_DZgrGMW9ohIJvJVTKHof69MA_w3FWcV2dCsQBiw-WcR0jESsrt9JTQ9woAdgele94w.orIyTBagx3k6ZPYVU82NqF5Nzn2cbA_V54LKpmCl9Q0&dib_tag=se&keywords=learning+spark&s=digital-text&sprefix=learning+spar,digital-text,417&sr=1-1), by Jules S. Damji,  et al.
 
@@ -146,4 +147,3 @@ Thanks goes to these wonderful people :tulip:
 
 Made with [contributors-img](https://contrib.rocks).
 
-- [Mining of Massive Datasets](http://www.mmds.org/)
