@@ -16,7 +16,7 @@ In this module, you will learn the privacy concerns coming from data analytics, 
 - [M05D: Generative AI (III)](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M05D.pdf)  :secret:
 - [M05E: Tabular Data Generation](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M05E.pdf)  
 - [M05F: LLMs and Applications](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M05F.pdf)  :secret:
-  
+
 ## :microscope: Sessions
 
 | Topic         | Learning Activities         |   
