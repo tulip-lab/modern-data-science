@@ -21,8 +21,8 @@ Explanation of grades
 
 ## :orange_book: Assessment Handbook
 
-- [T1/2024, SIT742](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M00A.pdf)  
-- [2024, MDS](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M00A.pdf)  
+- [2025, USTB](https://github.com/tulip-lab/handouts/blob/main/mds/assessment/MDS2025USTB.pdf)  
+- [2024, SIT742](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M00A.pdf)  
 
 
 ### :spiral_calendar: Assessment Due Dates
