@@ -106,7 +106,7 @@ The assessment is mainly aimed at assessing the students' achievement of the *Un
 #### :book: Assessment Plan
 
 The detailed assessment specification and marking rubrics can be found at:
-[M00D-Assessment](M00-Induction/M00D-Assessment.md). The relationship between each assessment task and the ULOs are shown as follows:
+[M00D-Assessment](M00-Induction/M00D-Assessment.md). The relationship between each assessment task and the ULOs are shown as follows (as a sample only):
 
 | :microscope: <br> Task  |   :man_teacher: <br> Category |  :dart: <br> [ULO1](S00-Induction/S00C-Logistics.md#ULO1)  | :dart: <br> [ULO2](S00-Induction/S00C-Logistics.md#ULO2) |  :dart: <br> [ULO3](S00-Induction/S00C-Logistics.md#ULO3)  |  Percentage | 
 | :----: |  :---: | ------|-------| ----- |  ----- |  
@@ -116,6 +116,8 @@ The detailed assessment specification and marking rubrics can be found at:
 
 
 #### :spiral_calendar: Submission Due Dates
+
+- **2025 (USTB)** - The final assessment files submissions due date is :spiral_calendar: `Saturday, 02/08/2025` (tentative), group of **3** members for this assessment.
 
 - **2024** - The final assessment files submissions due date is :spiral_calendar: `Saturday, 27/07/2024` (tentative), group of **one** member only (**individual** work) for all tasks.
 
