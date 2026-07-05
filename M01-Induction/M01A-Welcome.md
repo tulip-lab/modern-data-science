@@ -5,6 +5,8 @@
 
 Welcome to the unit on `Modern Data Science`. In this unit, you will have the opportunity to learn fundamental aspects of [Big Data](../M03-BigData/README.md), modern data science [programming platforms](../M02-Python/M02A-Platforms.md), techniques and various applications of data science.
 
+In the era of large language models (LLMs) and agentic AI, big data analytics capability and data science techniques remain indispensable. AI agents can help draft code, explore ideas, and automate parts of a workflow, but meaningful and trustworthy results still depend on people who understand data quality, sampling, bias, modelling assumptions, evaluation, privacy, and domain context. This unit therefore treats LLMs and agentic tools as accelerators, not substitutes, for rigorous data science thinking.
+
 As an elite Bachelor or master-level unit, this unit is designed with flexibility, and there is a great deal of responsibility placed on you to manage your own learning. This unit assumes some prior knowledge in any programming language, but your problem-solving abilities that are much needed. That is, your skills of getting insight into any particular data at hand, are extremely valuable. All the practical materials will be based on [Python programming](https://www.python.org/). In case that you have no prior `Python` experience, I strongly suggest you to start with the preliminary module :book: [Python Foundations](../M02-Python/README.md).
 
 Data scientists have the knack of collecting structured or unstructured data, :book: [Data Manipulation](../M04-DataManipulation/README.md) and then constructing various models from it. :book: [Data Analytics](../M05-DataAnalytics/README.md) is not an easy task, and generally you will become better with experience. It, however, does require a lot of reading, as well as exposure to the implementing of already explored real world cases.
@@ -40,5 +42,4 @@ Professor *Gang Li*
 
 - :link: https://www.deakin.edu.au/about-deakin/people/gang-li
 </details>
-
 
