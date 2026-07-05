@@ -3,14 +3,14 @@
 
 # Module: Big Data
 
-Data science is related to concepts such as *artificial intelligence*, *data mining*, *data analysis*, *big data* and *cloud computing*. Data science unifies statistics, data analysis, informatics, and their related methods in order to "understand and analyze actual phenomena" with data. It uses techniques and theories drawn from many fields within the context of mathematics, statistics, computer science, information science, and domain knowledge. However, data science is different from computer science and information science. 
+Data science is related to concepts such as *artificial intelligence*, *data mining*, *data analysis*, *big data* and *cloud computing*. Data science unifies statistics, data analysis, informatics, and their related methods in order to "understand and analyze actual phenomena" with data. It uses techniques and theories drawn from many fields within the context of mathematics, statistics, computer science, information science, and domain knowledge. However, data science is different from computer science and information science.
 
 In this module, you will learn the basic concepts of `Big Data`, `Data Science`, `Data Science Process`, `Open Data`, and also learn how to do `Data Acquisition` with `Python` code.
 
 ## :notebook_with_decorative_cover: Lecture Slides Handouts
 
-- [M02A: Big Data (I)](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M02A.pdf)  
-- [M02B: Big Data (II)](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M02B.pdf)  
+- [M03A: Big Data (I)](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M02A.pdf)
+- [M03B: Big Data (II)](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M02B.pdf)
 
 ![Readings](https://img.shields.io/badge/MDS-Readings-red)
 

@@ -3,27 +3,27 @@
 
 # `Jupyter` Notebooks
 
-`Jupyter Notebook` is an open source web application that you can use to create and share documents that contain live code, equations, visualisations, and text. 
+`Jupyter Notebook` is an open source web application that you can use to create and share documents that contain live code, equations, visualisations, and text.
 
-Traditionally, notebooks have been used to document research and make results reproducible, simply by rerunning the notebook on source data. Interactive notebooks are experiencing a rise in popularity, and theyare replacing PowerPoint in presentations, shared around organisations, and they are even taking workload away from many software packages such as `Tableau`, or `Rapidminer`. Why would many data scientists choose to use a notebook instead of a favourite `Programming IDE` or `command line`? 
+Traditionally, notebooks have been used to document research and make results reproducible, simply by rerunning the notebook on source data. Interactive notebooks are experiencing a rise in popularity, and theyare replacing PowerPoint in presentations, shared around organisations, and they are even taking workload away from many software packages such as `Tableau`, or `Rapidminer`. Why would many data scientists choose to use a notebook instead of a favourite `Programming IDE` or `command line`?
 
-- What they do offer is an environment for exploration, collaboration, and visualisation. 
-- Notebooks are typically used by data scientists for quick exploration tasks, and they can document the code/command in a notebook as you manipulate or analyse your data;. In that regard, they offer a number of advantages over any local scripts or tools. 
+- What they do offer is an environment for exploration, collaboration, and visualisation.
+- Notebooks are typically used by data scientists for quick exploration tasks, and they can document the code/command in a notebook as you manipulate or analyse your data;. In that regard, they offer a number of advantages over any local scripts or tools.
 - Data Visualisations are rendered directly in the notebook; and dynamic visualisations such as animations are supported;
 - Notebooks also tend to be set up in a cloud platform, allowing the data scientist to take advantage of computational resources beyond what is available on the laptop, and operate on the full data set without having to download a local copy.
 
 ## Jupyter Notebooks
 
 
-`IPython notebook` is an `HTML`-based notebook environment which provides a cell-based environment with great interactivity. In 2014, 
-a spin-off project from `IPython` called **Project Jupyter** was announced. `Jupyter Notebook` and `JupyterLab` are maintained by the people at Project `Jupyter`.  The name, `Jupyter`, comes from the core supported programming languages that it supports: `Julia`, `Python`, and `R`. `Jupyter` ships with the `IPython` kernel, which allows you to write your programs in `Python`, but there are currently over 100 other kernels that you can also use. So technically, `IPython notebooks` are `Jupyter notebooks` with an `IPython` kernel. Therefore, you will see the `Jupyter` icon on the top of notebook interface. In this unit `MDS`, we refer to the same term when we mention `Jupyter notebook` or `IPython notebook`.  
+`IPython notebook` is an `HTML`-based notebook environment which provides a cell-based environment with great interactivity. In 2014,
+a spin-off project from `IPython` called **Project Jupyter** was announced. `Jupyter Notebook` and `JupyterLab` are maintained by the people at Project `Jupyter`.  The name, `Jupyter`, comes from the core supported programming languages that it supports: `Julia`, `Python`, and `R`. `Jupyter` ships with the `IPython` kernel, which allows you to write your programs in `Python`, but there are currently over 100 other kernels that you can also use. So technically, `IPython notebooks` are `Jupyter notebooks` with an `IPython` kernel. Therefore, you will see the `Jupyter` icon on the top of notebook interface. In this unit `MDS`, we refer to the same term when we mention `Jupyter notebook` or `IPython notebook`.
 
 `Jupyter notebooks` are particularly useful as scientific lab books when you are doing data science using computational tools. Depending on your preferred Python Platforms, you have different ways to launch a `Jupyter` notebook:
 
-- `Google Colab`: you can `new` or `upload` a notebook from the Colab interface; 
+- `Google Colab`: you can `new` or `upload` a notebook from the Colab interface;
 > | `Google Colab`  |   `JupyterLab` |
 >| :--:            |:--: |
->|![Uploading](figures/M01A-Colab.png "Upload GitHub-hosted notebook")|![Connecting](figures/M01A-Colab-Connect.png "Connect to the server")|
+>|![Uploading](figures/M02A-Colab.png "Upload GitHub-hosted notebook")|![Connecting](figures/M02A-Colab-Connect.png "Connect to the server")|
 
 - `Self-Hosting server`: you can start the `Jupyter notebook` server by keying in the command in a terminal window/command line window.
     ```console
@@ -34,13 +34,13 @@ a spin-off project from `IPython` called **Project Jupyter** was announced. `Jup
 
 ### Jupyter notebook interface
 
-Now you have created your first notebook, let us have a close look at the user interface of notebook. 
+Now you have created your first notebook, let us have a close look at the user interface of notebook.
 
 When you open a Jupyter notebook in Web browser, you will be presented with the notebook name, a menu bar, a toolbar and an empty code cell.
 
 | `Google Colab`  |   `JupyterLab` |
 | :--:            |:--: |
-|![Markdown cell](figures/M01B-JN00A-GC.png "Markdown cell in notebook")|![Markdown cell](figures/M01B-JN00A.png "Markdown cell in notebook")|
+|![Markdown cell](figures/M02B-JN00A-GC.png "Markdown cell in notebook")|![Markdown cell](figures/M02B-JN00A.png "Markdown cell in notebook")|
 
 We can see the following components in a notebook:
 
@@ -74,19 +74,19 @@ The other important thing to know is how to interrupt a computation. This can be
 
 **Edit mode**
 
-The `Edit mode` is used to enter text in cells and to execute code. As you have seen, after typing some code in the notebook and pressing <kbd>CTRL</kbd>+<kbd>Enter</kbd>, the notebook executes the cell and diplays output. The other two shortcuts used to run code in a cell are <kbd>Shift</kbd>+<kbd>Enter</kbd> and <kbd>Alt</kbd>+<kbd>Enter</kbd>. 
+The `Edit mode` is used to enter text in cells and to execute code. As you have seen, after typing some code in the notebook and pressing <kbd>CTRL</kbd>+<kbd>Enter</kbd>, the notebook executes the cell and diplays output. The other two shortcuts used to run code in a cell are <kbd>Shift</kbd>+<kbd>Enter</kbd> and <kbd>Alt</kbd>+<kbd>Enter</kbd>.
 
 **Command mode**
 
 In `Command mode`, you can edit the notebook as a whole, but not type into individual cells.
 
-You can use keyboard shortcut in this mode to perform the notebook and cell actions efficiently. For example, if you are in command mode and press <kbd>c</kbd>, you will copy the current cell. 
+You can use keyboard shortcut in this mode to perform the notebook and cell actions efficiently. For example, if you are in command mode and press <kbd>c</kbd>, you will copy the current cell.
 
- There are a large amount of shortcuts available in the command mode. However, you do not have to remember all of them, since most actions in the command mode are available in the menu. 
- 
+ There are a large amount of shortcuts available in the command mode. However, you do not have to remember all of them, since most actions in the command mode are available in the menu.
+
  Here is a list of the most useful shortcuts. They are arranged by the order we recommend you learn so that you can edit the cells efficiently.
 
->Note that one of the most common (and frustrating) mistakes when using the notebook is to type something in the wrong mode. 
+>Note that one of the most common (and frustrating) mistakes when using the notebook is to type something in the wrong mode.
   - Remember to use <kbd>Esc</kbd> to switch to the `Command` mode and <kbd>Enter</kbd> to switch to the `Edit` mode.
   - Also, remember that **clicking** on a cell automatically places it in the `Edit` mode, so it will be necessary to press <kbd>Esc</kbd> to go to the `Command` mode.
 
@@ -94,17 +94,17 @@ You can use keyboard shortcut in this mode to perform the notebook and cell acti
 
 To create a new notebook, you can go to the menu bar and select `File` -> `New Notebook` -> `Python 3`
 
-![New a Notebook in Browser](figures/M01B-JN01.png "New a Jupyter Notebook in web browser")
+![New a Notebook in Browser](figures/M02B-JN01.png "New a Jupyter Notebook in web browser")
 
 Or you can directly create from the root button `New`.
 
-![New a Notebook in Browser](figures/M01B-JN00.png "New a Jupyter Notebook in web browser")
+![New a Notebook in Browser](figures/M02B-JN00.png "New a Jupyter Notebook in web browser")
 
-> By default, the new notebook is named `Untitled1`. To give your notebook a meaningful name, click on the notebook name and rename it. If you would like to call our new notebook `Hello.ipynb`. Therefore, key in the name `Hello`. 
+> By default, the new notebook is named `Untitled1`. To give your notebook a meaningful name, click on the notebook name and rename it. If you would like to call our new notebook `Hello.ipynb`. Therefore, key in the name `Hello`.
 
 | `Google Colab`  |   `JupyterLab` |
 | :--:            |:--: |
-|![Renaming](figures/M01B-JN02-GC.png "Renaming a Jupyter Notebook in web browser")|![Renaming](figures/M01B-JN02.png "Renaming a Jupyter Notebook in web browser")|
+|![Renaming](figures/M02B-JN02-GC.png "Renaming a Jupyter Notebook in web browser")|![Renaming](figures/M02B-JN02.png "Renaming a Jupyter Notebook in web browser")|
 
 
 ### Run script in code cells
@@ -112,15 +112,15 @@ Or you can directly create from the root button `New`.
 After a new notebook is created, there is an empty box in the notebook, called a `cell`. If you double-click on the `cell`, you enter the edit mode of the notebook. Now we can enter the following code in the `cell`
 
 ```pythoon
-text = "Hello World" 
+text = "Hello World"
 print(text)
 ```
 
-After this, press `CTRL + ENTER` or click `Run` to execute the `cell`. The result will be shown after the `cell`. 
+After this, press `CTRL + ENTER` or click `Run` to execute the `cell`. The result will be shown after the `cell`.
 
 | `Google Colab`  |   `JupyterLab` |
 | :--:            |:--: |
-|![Run a cell](figures/M01B-JN03-GC.png "Run a cell in notebook")|![Run a cell](figures/M01B-JN03.png "Run a cell in notebook")|
+|![Run a cell](figures/M02B-JN03-GC.png "Run a cell in notebook")|![Run a cell](figures/M02B-JN03.png "Run a cell in notebook")|
 
 
 
@@ -142,13 +142,13 @@ To add cell below the current cell, go to menu bar and click `Insert`-> `Insert 
 
 | `Google Colab`  |   `JupyterLab` |
 | :--:            |:--: |
-|![Insert a cell](figures/M01B-JN04-GC.png "Add a cell in notebook")|![Insert a cell](figures/M01B-JN04.png "Add a cell in notebook")|
+|![Insert a cell](figures/M02B-JN04-GC.png "Add a cell in notebook")|![Insert a cell](figures/M02B-JN04.png "Add a cell in notebook")|
 
 
 
 ### `Code cells` and `Markdown cells`
 
-There are basically three types of cells in a `Jupyter notebook`: 
+There are basically three types of cells in a `Jupyter notebook`:
 
 - `Code cells`: Code cell can be used to enter code and will be executed by Python interpreter. Although we will not use other language in this unit, it is good to know that Jupyter Notebooks also support `JavaScript`, `HTML`, and `Bash` commands.
 
@@ -162,9 +162,9 @@ By default, a `code cell` is created when adding a new cell. However, `Jupyter n
 
 Try to copy the text in the cell below and paste it into your new notebook. Then from toolbar (`Cell`->`Cell Type)`, change cell type from `Code` to `Markdown`.
 
-![Markdown cell](figures/M01B-JN05.png "Add a Markdown cell in notebook")
+![Markdown cell](figures/M02B-JN05.png "Add a Markdown cell in notebook")
 
-Please note in the following cell, there is a space between the leading -, #, 0 and the text that follows. 
+Please note in the following cell, there is a space between the leading -, #, 0 and the text that follows.
 
 ```Markdown
 ## Heading 2
@@ -176,10 +176,10 @@ ordered list here
 0. Deakin University
   0. SEBE
     0. School of IT
-        0. SIT742 
+        0. SIT742
         0. SIT744
         0. ...
- 
+
 Unordered list here
 - Fruits
      - Banana
@@ -195,26 +195,26 @@ Now execute the cell by press <kbd>CTRL</kbd> + <kbd>ENTER</kbd>. You notebook s
 
 | `Google Colab`  |   `JupyterLab` |
 | :--:            |:--: |
-|![Markdown cell](figures/M01B-JN06-GC.png "Markdown cell in notebook")|![Markdown cell](figures/M01B-JN06.png "Markdown cell in notebook")|
+|![Markdown cell](figures/M02B-JN06-GC.png "Markdown cell in notebook")|![Markdown cell](figures/M02B-JN06.png "Markdown cell in notebook")|
 
 
 
 ### Close notebooks and Shutdown the server
- 
-You can open multiple notebooks in a browser windows. Simply go to menu bar and choose `File->open...`, and select one **`.ipynb`** file. The second notebook will be opened in a separated tab. 
-  
-When you finish your work, you will need to close your `notebooks` and shutdown the `Jupyter notebook server`. Instead of simply close all the tabs in the browser, you need to shut down each notebook first. To do this, switch to the **Home** tab (**`Dashboard` page**) and **`Running`** section (see below). Click on **`Shutdown`** button to close each notebook. In case  **`Dashboard`** page is not open,  click on the **`Jupyter`** icon to reopen it. 
 
- 
+You can open multiple notebooks in a browser windows. Simply go to menu bar and choose `File->open...`, and select one **`.ipynb`** file. The second notebook will be opened in a separated tab.
+
+When you finish your work, you will need to close your `notebooks` and shutdown the `Jupyter notebook server`. Instead of simply close all the tabs in the browser, you need to shut down each notebook first. To do this, switch to the **Home** tab (**`Dashboard` page**) and **`Running`** section (see below). Click on **`Shutdown`** button to close each notebook. In case  **`Dashboard`** page is not open,  click on the **`Jupyter`** icon to reopen it.
+
+
 
  | `Google Colab`  |   `JupyterLab` |
 | :--:            |:--: |
-|![Shutdown the notebook](figures/M01B-JN07A-GC.png "Shutdown the notebook")|![Shutdown the notebook](figures/M01B-JN07A.png "Shutdown the notebook")|
+|![Shutdown the notebook](figures/M02B-JN07A-GC.png "Shutdown the notebook")|![Shutdown the notebook](figures/M02B-JN07A.png "Shutdown the notebook")|
 
 
  After each notebook is shutdown, it is time to showdown the notebook server. To do this, go to the terminal window and press <kbd>CTRL</kbd> + <kbd>C</kbd>, and then enter **`Y`**. After the notebook server is shut down, the terminal window is ready for you to enter any new command.
 
-  ![Shutdown the notebook server](figures/M01B-JN07.png "Shutdown the notebook server")
+  ![Shutdown the notebook server](figures/M02B-JN07.png "Shutdown the notebook server")
 
 
 

@@ -7,9 +7,9 @@ In this part,  you will get better understanding with `Python`'s basic data type
 
 - Data conversion
 - Data comparison
-- Receive input from users and display results effectively 
+- Receive input from users and display results effectively
 
-You will be guided through  completing a simple program which receives input from a user, process the information, and display results with specific format. 
+You will be guided through  completing a simple program which receives input from a user, process the information, and display results with specific format.
 
 ## String
 
@@ -22,7 +22,7 @@ print('Hello, World!')
 We can also use a variable to store the string value, and use the variable in the **print()** function.
 
 ```Python
-# Assign a string to a variable 
+# Assign a string to a variable
 text = 'Hello, World!'
 print(text)
 ```
@@ -36,11 +36,11 @@ text = 'Hello, World!'
 print(text)
 ```
 
-With variables, we can also display its value without **print()** function. Note that you can not display a variable without **print()** function in `Python` script(i.e. in a **.py** file). This method only works under interactive mode (i.e. in the notebook).  
+With variables, we can also display its value without **print()** function. Note that you can not display a variable without **print()** function in `Python` script(i.e. in a **.py** file). This method only works under interactive mode (i.e. in the notebook).
 
 ```Python
 # without print() function, quotation mark is displayed together with content
-text 
+text
 ```
 
 Back to representation of string, there will be issues if you need to include a quotation mark in the text. We provide a example use a apostrophe mark(’) similar with single quotation mark('). You will find that it will show `SyntaxError: invalid character in identifier`. Just try to change the apostrophe mark with single quotation mark and run it again.
@@ -55,8 +55,8 @@ print(text)
 You can specify multi-line strings using triple quotes  (**"""** or **'''**). In this way, single quotes and double quotes can be used freely in the text. Here is one example:
 
 ```Python
-multiline = '''This is a test for multiline. This is the first line. 
-This is the second line. 
+multiline = '''This is a test for multiline. This is the first line.
+This is the second line.
 I asked, "What's your name?"'''
 print(multiline)
 ```
@@ -93,7 +93,7 @@ sum
 
 ### Data conversion and comparison
 
-So far, we have seen three types of data: `integer`, `float`, and `string`. With various data type, `Python` can define the operations possible on them and the storage method for each of them. In the later [session](M01G-AdvDataTypes.md), we will further introduce more data types, such as `tuple`, `list` and `dictionary`. 
+So far, we have seen three types of data: `integer`, `float`, and `string`. With various data type, `Python` can define the operations possible on them and the storage method for each of them. In the later [session](M02G-AdvDataTypes.md), we will further introduce more data types, such as `tuple`, `list` and `dictionary`.
 
 To obtain the data type of a variable or a value, we can use built-in function **type()**; whereas functions, such as **str()**, **int()**, **float()**, are used to convert data one type to another. Check the following examples on the usage of these functions:
 
@@ -119,7 +119,7 @@ Comparison between two values can help make decision in a program. The result of
 10.0 == 10
 ```
 
-There are three logical operators, *`not`*, *`and`* and *`or`*, which can be applied to the `Boolean` values. 
+There are three logical operators, *`not`*, *`and`* and *`or`*, which can be applied to the `Boolean` values.
 
 ```Python
 # Both conditional #1 and conditional #2 are False?
@@ -134,7 +134,7 @@ All programming languages provide features to interact with user. `Python` provi
 nInput  = input('Enter you number here:\n')
 ```
 
-However, be aware that the input received from the user are treated as a `string`, even though a user entered a number. The following **print()** function invokes an error message. 
+However, be aware that the input received from the user are treated as a `string`, even though a user entered a number. The following **print()** function invokes an error message.
 
 ```Python
 print(nInput + 3)
@@ -157,13 +157,13 @@ age = 23
 print('%s is %d years old.' % (name, age))
 ```
 
-Notice that the two variables, **name**, **age**, that specify the values are included at the end of the statement, and enclosed with a bracket. 
+Notice that the two variables, **name**, **age**, that specify the values are included at the end of the statement, and enclosed with a bracket.
 
-With the quotation mark,  **`%s`** and **`%d`** are used to specify formatting for `string` and `integer` respectively. The following table shows a selected set of symbols which can be used along with `%`. 
+With the quotation mark,  **`%s`** and **`%d`** are used to specify formatting for `string` and `integer` respectively. The following table shows a selected set of symbols which can be used along with `%`.
 
 
 ```Python
-# With %f, the format is right justification by default. 
+# With %f, the format is right justification by default.
 # As a result, white spaces are added to the left of the number
 # 10.4 means minimal width 10 with 4 decimal points
 print('Output a float number: %10.4f' % (3.5))
@@ -172,6 +172,6 @@ print('Output a float number: %10.4f' % (3.5))
 ## :biking_man: Activity
 
 ![GitHub watchers](https://img.shields.io/badge/MDS-Learning--Activity-yellow)
-> 1. Load and run the notebook [M02C-DataTypes.ipynb](https://github.com/tulip-lab/sit742/blob/main/Jupyter/M02-Python/M02C-DataTypes.ipynb) from [![GitHub watchers](https://img.shields.io/badge/tulip--lab-sit742-brightgreen?style=plastic)](https://github.com/tulip-lab/sit742), and 
+> 1. Load and run the notebook [M02C-DataTypes.ipynb](https://github.com/tulip-lab/sit742/blob/main/Jupyter/M02-Python/M02C-DataTypes.ipynb) from [![GitHub watchers](https://img.shields.io/badge/tulip--lab-sit742-brightgreen?style=plastic)](https://github.com/tulip-lab/sit742), and
 > 2. try different variants of the source code and see their effects.
 

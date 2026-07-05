@@ -2,28 +2,28 @@
 
 
 # Module: Advanced Topics in Big Data
- 
+
 With the popularity of data acquisition methods in online shopping, navigation, transactions, movie recommendations, etc., the risk of privacy violation is more than ever because the collected data can be very sensitive and may cause harm if they were analysed with malicious intentions. Especially if combined with Big data, powerful data science techniques bring insights but may be at the price of our private information being exposed or even exploited.
 
 
-In this module, you will learn the privacy concerns coming from data analytics, the privacy related laws, as well as a rigorous privacy model: *differential privacy*. 
+In this module, you will learn the privacy concerns coming from data analytics, the privacy related laws, as well as a rigorous privacy model: *differential privacy*.
 
 Modern data science increasingly operates alongside LLM-assisted and automated AI tools, but reliable data handling, privacy protection, validation, and reproducible analysis remain essential.
 
 ## :notebook_with_decorative_cover: Lecture Slides Handouts
 
-- [M05A: Data Privacy](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M05A.pdf)  
-- [M05B: Generative AI (I)](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M05B.pdf)  :secret:
-- [M05C: Generative AI (II)](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M05C.pdf)  :secret:
-- [M05D: Generative AI (III)](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M05D.pdf)  :secret:
-- [M05E: Tabular Data Generation](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M05E.pdf)
-- [M05F: LLMs and Applications](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M05F.pdf)  :secret:
+- [M06A: Data Privacy](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M05A.pdf)
+- [M06B: Generative AI (I)](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M05B.pdf)  :secret:
+- [M06C: Generative AI (II)](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M05C.pdf)  :secret:
+- [M06D: Generative AI (III)](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M05D.pdf)  :secret:
+- [M06E: Tabular Data Generation](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M05E.pdf)
+- [M06F: LLMs and Applications](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M05F.pdf)  :secret:
 
 ## :microscope: Sessions
 
-| Topic         | Learning Activities         |   
-| ------------- |:-------------:|   
-| :page_with_curl: [Privacy in the Asia-Pacific Region](M05B-Laws.md) |  [![GitHub watchers](https://img.shields.io/badge/MDS-Learning--Activity-yellow)](M05B-Laws.md#Activity) |
+| Topic         | Learning Activities         |
+| ------------- |:-------------:|
+| :page_with_curl: [Privacy in the Asia-Pacific Region](M06B-Laws.md) |  [![GitHub watchers](https://img.shields.io/badge/MDS-Learning--Activity-yellow)](M06B-Laws.md#Activity) |
 
 
 ![Readings](https://img.shields.io/badge/MDS-Readings-red)
@@ -40,7 +40,7 @@ Modern data science increasingly operates alongside LLM-assisted and automated A
 
 - [Ganblr Tabular Data Generation Framework](https://github.com/tulip-lab/ganblr)
 - [Recent and Emerging Trends in Tabular Data Generation](https://www.tulip.org.au/tutorials/ganblr/ICDM2022): ICDM 2022 Tutorial, by Nayya Zaidi, Chris Zhang, **Gang Li**
-  - [ICDM 2022 Tutorial Handouts](https://drive.google.com/file/d/1YkrJOKqObmbb9ZErKV2PA-yq0lNb3l5-/view?usp=share_link)  
+  - [ICDM 2022 Tutorial Handouts](https://drive.google.com/file/d/1YkrJOKqObmbb9ZErKV2PA-yq0lNb3l5-/view?usp=share_link)
 
 - Yishuo Zhang, Nayyar Zaidi, **Gang Li**, Wray Buntine. [Masked Ensemble Tabular Data Generator](https://doi.org/10.1109/ICDM58522.2023.00093). International Conference on Data Mining, 2023.
 - Yishuo Zhang, Nayyar Zaidi, Jiahui Zhou, and **Gang Li**, [Interpretable tabular data generation](https://link.springer.com/article/10.1007/s10115-023-01834-5), Knowledge and Information Systems, pp. 1-29, 2023.

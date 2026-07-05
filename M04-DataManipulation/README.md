@@ -4,16 +4,16 @@
 # Module: Big Data Manipulation
 
 
-Data manipulation is related to the early steps in the [data science process](../M02-BigData/README.md). It involves *data wrangling* (capture, gather and store the data), and *data preparation*, which converts the raw data into cleaned, organised information. In the data science process, data manipulation also generates the *data dictionary* between the data owners (or data curators) and the data scientists.
+Data manipulation is related to the early steps in the [data science process](../M03-BigData/README.md). It involves *data wrangling* (capture, gather and store the data), and *data preparation*, which converts the raw data into cleaned, organised information. In the data science process, data manipulation also generates the *data dictionary* between the data owners (or data curators) and the data scientists.
 
 In this module, you will learn the data wrangling, exploratory data analysis and data dictionary. Technically for Big data, you will learn the `MapReduce` and `Spark` paradigms for distributed data processing.
 
 ## :notebook_with_decorative_cover: Lecture Slides Handouts
 
-- [M03A: Data Wrangling](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M03A.pdf)  
-- [M03B: Exploratory Data Analysis](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M03B.pdf)  
-- [M03C: Spark](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M03C.pdf)   :desktop_computer:
-- [M03D: Spark SQL](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M03D.pdf)   :desktop_computer:
+- [M04A: Data Wrangling](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M03A.pdf)
+- [M04B: Exploratory Data Analysis](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M03B.pdf)
+- [M04C: Spark](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M03C.pdf)   :desktop_computer:
+- [M04D: Spark SQL](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M03D.pdf)   :desktop_computer:
 
 
 ![Readings](https://img.shields.io/badge/MDS-Readings-red)
@@ -44,7 +44,7 @@ In this module, you will learn the data wrangling, exploratory data analysis and
 
 ##### Data Visualization
 
-- [Anscombe's Quarter](https://en.wikipedia.org/wiki/Anscombe%27s_quartet) 
+- [Anscombe's Quarter](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
 - [Turning Powerful Stats Into Art](https://www.ted.com/talks/chris_jordan_turning_powerful_stats_into_art?language=en&amp;t-50788)
 - [The Best Stats You've Ever Seen](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen)
 - [Data Quality: Garbage In Garbage Out](https://towardsdatascience.com/data-quality-garbage-in-garbage-out-df727030c5eb)

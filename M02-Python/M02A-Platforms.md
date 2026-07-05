@@ -33,11 +33,11 @@ The key differences between `Python` and `R` can be summarised as in the followi
 | Used by | data scientists, data engineers, software developer | Statisticians, Analyst and Data scientists |
 | Suitable for | Beginners to experienced data scientists | People without prior programming knowledge |
 | Package Distribution | [PyPi](https://pypi.org/) | [CRAN](https://cran.r-project.org/) |
-| Visualisation Package | `Matplotlib`, `seaborn`, `bokkeh` | `ggplot2`, `plotly`, `ggiraph` | 
+| Visualisation Package | `Matplotlib`, `seaborn`, `bokkeh` | `ggplot2`, `plotly`, `ggiraph` |
 
 In short, `Python` is used for data analysis as well as Web application development, while `R` is most widely used for statistical modelling and data analysis. As what matters most as a beginner in Data Science is that you **DO Data Science**, you may just go with either one of the languages and prioritise getting some data science projects done while practising this unit. That’s how you will learn the fastest.
 
-Along with Data Science, `Python` has also built a major force to conquer data manipulation, data analysis, artificial intelligence and machine learning. So if you learn `Python`, you are not limited to a career in data science or AI, many other career [opportunities](https://www.seek.com.au/python-jobs) have open doors for you. 
+Along with Data Science, `Python` has also built a major force to conquer data manipulation, data analysis, artificial intelligence and machine learning. So if you learn `Python`, you are not limited to a career in data science or AI, many other career [opportunities](https://www.seek.com.au/python-jobs) have open doors for you.
 
 
 ## Getting Started with `Python`
@@ -48,18 +48,18 @@ Depending on your technical background, you may resort to one of the following t
 - **Self-Hosting `Jupyter`**: [Anaconda](https://anaconda.org/), or [JupyterLab](https://jupyter.org/), etc.
 
 
-You may consider different factors when choosing your preferred platform. The basic trade off is well-known: 
+You may consider different factors when choosing your preferred platform. The basic trade off is well-known:
 
-- If you use an **Cloud Platform**  like [Google Colab](https://colab.research.google.com), you don't need hardware, but the cost of running the instances will get expensive later, especially when analysing big data beyond the free-tier. 
+- If you use an **Cloud Platform**  like [Google Colab](https://colab.research.google.com), you don't need hardware, but the cost of running the instances will get expensive later, especially when analysing big data beyond the free-tier.
 - If you **self-host**, you need some dedicated hardware, most likely also need a graphics card if doing big data analysis or deep learning.
 
 ### `Google Colab`
 
 >:speaking_head: For the teaching purpose, `Google Colab` is the selected teaching platform in `SIT742: Big Data Analytics`.
 
-But as a beginner, this trade off doesn't come into play yet, since most practical sessions and case studies in `MDS` will train models within minutes. As a beginner, what you need is an easy to set up environment. In this case, [Google Colab](https://colab.research.google.com) wins hands down. 
+But as a beginner, this trade off doesn't come into play yet, since most practical sessions and case studies in `MDS` will train models within minutes. As a beginner, what you need is an easy to set up environment. In this case, [Google Colab](https://colab.research.google.com) wins hands down.
 
-- :page_with_curl: [Google Colab](M01A-Platforms-I.md)
+- :page_with_curl: [Google Colab](M02A-Platforms-I.md)
 
 
 ### Self-Hosting `Jupyter`
@@ -68,7 +68,7 @@ But as a beginner, this trade off doesn't come into play yet, since most practic
 
 For data scientists with experience and IT skills, **self-hosting `Jupyter`** is the flexible option, and you need to install and configure the needed packages before using it.
 
-- :page_with_curl: [`Jupyter`](M01A-Platforms-II.md)
+- :page_with_curl: [`Jupyter`](M02A-Platforms-II.md)
 
 
 ![Readings](https://img.shields.io/badge/MDS-Extra--Readings-orange)
