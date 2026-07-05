@@ -8,17 +8,17 @@ Let's explore this new world of `Modern Data Science` (MDS) together!
 
 ## :notebook_with_decorative_cover: Lecture Slides Handouts
 
-- [M00A: Unit Induction](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M00A.pdf)  
-- [M00B: Introduction to Modern Data Science](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M00B.pdf)  
+- [M01A: Unit Induction](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M00A.pdf)
+- [M01B: Introduction to Modern Data Science](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M00B.pdf)
 
 ## :microscope: Sessions
 
-| Topic         | Learning Activities           |  
-| ------------- |:-------------:|  
-| :page_with_curl: [Welcome](M00A-Welcome.md) |
-| :page_with_curl: [Unit Team](M00B-Team.md)
-| :page_with_curl: [Unit Logistics](M00C-Logistics.md)
-| :page_with_curl: [Unit Assessment](M00D-Assessment.md) | [![GitHub watchers](https://img.shields.io/badge/MDS-Learning--Activity-yellow)](M00D-Assessment.md#Activity) | 
+| Topic         | Learning Activities           |
+| ------------- |:-------------:|
+| :page_with_curl: [Welcome](M01A-Welcome.md) |
+| :page_with_curl: [Unit Team](M01B-Team.md)
+| :page_with_curl: [Unit Logistics](M01C-Logistics.md)
+| :page_with_curl: [Unit Assessment](M01D-Assessment.md) | [![GitHub watchers](https://img.shields.io/badge/MDS-Learning--Activity-yellow)](M01D-Assessment.md#Activity) |
 
 ![Readings](https://img.shields.io/badge/MDS-Readings-red)
 

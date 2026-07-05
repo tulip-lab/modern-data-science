@@ -1,6 +1,6 @@
 [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Modern--Data--Science-brightgreen)](../README.md)
 [![GitHub watchers](https://img.shields.io/badge/Module-Python-orange)](README.md)
-[![GitHub watchers](https://img.shields.io/badge/Session-Platforms-blue)](M01A-Platforms.md)
+[![GitHub watchers](https://img.shields.io/badge/Session-Platforms-blue)](M02A-Platforms.md)
 
 # `Google Colab`
 
@@ -24,15 +24,15 @@ Once you can access the `Google Colab`, you can start with the official document
 
 After that, we move into the `MDS` modules by loading related `Jupyter` notebooks. All SIT742 notebooks are hosted in `GitHub` [![GitHub watchers](https://img.shields.io/badge/tulip--lab-sit742-brightgreen?style=plastic)](https://github.com/tulip-lab/sit742), so you can upload those hosted `MDS` notebook directly using the `GitHub` menu tab, as shown in the following figure:
 
-![CoLab GitHub](figures/M01A-Colab.png "Loading GitHub Resources into CoLab")
+![CoLab GitHub](figures/M02A-Colab.png "Loading GitHub Resources into CoLab")
 
 >:film_projector: A video is available for the related demonstration.
 >
 <details><summary>:movie_camera:</summary>
 
-![Video](https://img.shields.io/badge/tulip--lab-SIT742--ScreenVideo-brightgreen) 
-- Google Colab video 
-- Link as below: 
+![Video](https://img.shields.io/badge/tulip--lab-SIT742--ScreenVideo-brightgreen)
+- Google Colab video
+- Link as below:
 - https://deakin.zoom.us/rec/share/3bE3sPAMd8ObYFiluqSBtXXhaAnB3sd1NOmZddEc7ki8WdMxvbgrXBlWUK0JZXQt.OEzkwYFGIFD6gpzu?startTime=1635337670000
 </details>
 

@@ -4,7 +4,7 @@
 
 # Python Packages
 
-## Python Standard Library 
+## Python Standard Library
 
 After completing previous Python sessions, you should know about the syntax and semantics of the Python language. But apart from that, you should also learn about Python libraries and its packages to be able to code efficiently. Python’s standard library is very extensive, offering a wide range of facilities as indicated [here](https://docs.python.org/3/library/index.html). The library contains built-in modules (written in `C`) that provide access to system functionality such as file I/O that would otherwise be inaccessible to Python programmers, as well as modules written in Python that provide standardised solutions for many problems that occur in everyday programming. Look at the [Python Standard Library Manual](https://docs.python.org/3/library/index.html) to read more.
 
@@ -103,9 +103,9 @@ print("e^{} is {} and log({}) is {}".format(x, y1, x, y2))
 
 <details><summary>:movie_camera:</summary>
 
-![Video](https://img.shields.io/badge/tulip--lab-SIT742--ScreenVideo-brightgreen) 
+![Video](https://img.shields.io/badge/tulip--lab-SIT742--ScreenVideo-brightgreen)
 - Packages
-- Link as below: 
+- Link as below:
 https://deakin.zoom.us/rec/share/AyrtRY8qPFp3toec7iCjcF_aIZyahkFz3MQWW0xnSkZoc4gI1FwKcjYQtSp6Nv7E.nuYZaqf2AbCJIVun?startTime=1635340648000
 </details>
 
@@ -115,7 +115,7 @@ https://deakin.zoom.us/rec/share/AyrtRY8qPFp3toec7iCjcF_aIZyahkFz3MQWW0xnSkZoc4g
 ## :biking_man: Activity
 
 ![GitHub watchers](https://img.shields.io/badge/MDS-Learning--Activity-yellow)
-> 1. Load and run the notebook [M01H-Packages.ipynb](https://github.com/tulip-lab/sit742/blob/main/Jupyter/M02-Python/M02H-Packages.ipynb) from [![GitHub watchers](https://img.shields.io/badge/tulip--lab-sit742-brightgreen?style=plastic)](https://github.com/tulip-lab/sit742), and try different variants of the source code.
+> 1. Load and run the notebook [M02H-Packages.ipynb](https://github.com/tulip-lab/sit742/blob/main/Jupyter/M02-Python/M02H-Packages.ipynb) from [![GitHub watchers](https://img.shields.io/badge/tulip--lab-sit742-brightgreen?style=plastic)](https://github.com/tulip-lab/sit742), and try different variants of the source code.
 > 2. Write code to implement the following tasks: a) Import the library math from standard Python libraries; b) Define a variable and assign an integer value to it (smaller than 20); c) Use factorial() function (an object in math library) to calculate the factorial of the variable; d) and print its value.
 > 3. Write code to implement the following tasks: a) Write a function that takes an integer variable and returns its factorial; b) Use this function to find the factorial of the variable defined in above; c) Check whether your answers match?
 
