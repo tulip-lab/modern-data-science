@@ -21,13 +21,18 @@ Explanation of grades
 
 ## :orange_book: Assessment Handbook
 
-- [2025, USTB](https://github.com/tulip-lab/handouts/blob/main/mds/assessment/MDS2025USTB.pdf)  
-- [2024, SIT742](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M00A.pdf)  
+- **Current: [USTB 2026 Assignment: Group Forecasting Project](../assessments/2026/ustb/USTB-2026-Assignment-Group-Forecasting-Project.md)**
+
+Archived and reference materials:
+
+- [Assessment archive index](../assessments/archive/README.md)
+- [2025 USTB assessment handbook](https://github.com/tulip-lab/handouts/blob/main/mds/assessment/MDS2025USTB.pdf)
+- [2024 SIT742 assessment handout](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M00A.pdf)
 
 
 ### :spiral_calendar: Assessment Due Dates
 
-It is expected that you will submit each assessment task on time. You will not be allowed to submit everything at the last moment, because we will provide you with feedback that you will be expected to use in future module assessments. If you find that you are having trouble meeting your deadlines, speak to the [Campus Coordinator](M00B-Team.md#unit-team-contacts). 
+It is expected that you will submit each assessment task on time. You will not be allowed to submit everything at the last moment, because we will provide you with feedback that you will be expected to use in future module assessments. Follow the dates, platform, and file-naming rules listed for your offering in the assessment index. If you find that you are having trouble meeting your deadlines, speak to the [Campus Coordinator](M00B-Team.md#unit-team-contacts).
 
 So now you should have a general idea about what MDS is and what you need to do to pass this unit.
 
@@ -61,4 +66,3 @@ We encourage all the unit related discussions to be done via GitHub
 
 ![GitHub watchers](https://img.shields.io/badge/MDS-Learning--Activity-yellow)
 > 1. Access this year's assessment tasks, and compare it with those demonstration tasks covered in practical classes. Make a study plan for your `MDS` study, and think about forming a team for group assessment. 
-

@@ -1,10 +1,10 @@
 [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Modern--Data--Science-brightgreen)](../README.md)
 
 
-# Module: Data Manipulation
+# Module: Big Data Manipulation
 
 
-Data manipulation is related to the first two steps in the [data science process](../M03-BigData/M03A-DataScience.md#data-science-process). It involves *data wrangling* (capture, gather and store the data), and *data preparation*, which converts the raw data into cleaned, organised information. In the data science process, data manipulation also generates the *data dictionary* between the data owners (or data curators) and the data scientists.
+Data manipulation is related to the early steps in the [data science process](../M02-BigData/README.md). It involves *data wrangling* (capture, gather and store the data), and *data preparation*, which converts the raw data into cleaned, organised information. In the data science process, data manipulation also generates the *data dictionary* between the data owners (or data curators) and the data scientists.
 
 In this module, you will learn the data wrangling, exploratory data analysis and data dictionary. Technically for Big data, you will learn the `MapReduce` and `Spark` paradigms for distributed data processing.
 
@@ -67,7 +67,6 @@ In this module, you will learn the data wrangling, exploratory data analysis and
 - [Spark by Example](https://sparkbyexamples.com/apache-spark-rdd/spark-rdd-transformations/)
 - [RDD Programming Guide](https://spark.apache.org/docs/latest/rdd-programming-guide.html)
 - [MapReduce and the New Software Stack - Book Chapter](http://infolab.stanford.edu/~ullman/mmds/ch2n.pdf)
-
 
 
 

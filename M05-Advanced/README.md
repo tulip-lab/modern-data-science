@@ -8,13 +8,15 @@ With the popularity of data acquisition methods in online shopping, navigation, 
 
 In this module, you will learn the privacy concerns coming from data analytics, the privacy related laws, as well as a rigorous privacy model: *differential privacy*. 
 
+Modern data science increasingly operates alongside LLM-assisted and automated AI tools, but reliable data handling, privacy protection, validation, and reproducible analysis remain essential.
+
 ## :notebook_with_decorative_cover: Lecture Slides Handouts
 
 - [M05A: Data Privacy](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M05A.pdf)  
 - [M05B: Generative AI (I)](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M05B.pdf)  :secret:
 - [M05C: Generative AI (II)](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M05C.pdf)  :secret:
 - [M05D: Generative AI (III)](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M05D.pdf)  :secret:
-- [M05E: Tabular Data Generation](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M05E.pdf)  
+- [M05E: Tabular Data Generation](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M05E.pdf)
 - [M05F: LLMs and Applications](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M05F.pdf)  :secret:
 
 ## :microscope: Sessions
@@ -34,7 +36,7 @@ In this module, you will learn the privacy concerns coming from data analytics, 
 - [Differentially Private Data Publishing and Analysis: a Survey](https://doi.org/10.1109/TKDE.2017.2697856), Tianqing Zhu, **Gang Li**, Wanlei Zhou, and Philip S Yu. IEEE Transactions on Knowledge and Data Engineering, 2017, 29(8): 1619-1638.
 - [Differential Privacy and Applications](https://www.springer.com/in/book/9783319620022), Tianqing Zhu, **Gang Li**, Wanlei Zhou, Philip S. Yu.  2017. AIS 69, Springer.
 
-##### Generative AI
+##### Generative AI and Synthetic Data
 
 - [Ganblr Tabular Data Generation Framework](https://github.com/tulip-lab/ganblr)
 - [Recent and Emerging Trends in Tabular Data Generation](https://www.tulip.org.au/tutorials/ganblr/ICDM2022): ICDM 2022 Tutorial, by Nayya Zaidi, Chris Zhang, **Gang Li**

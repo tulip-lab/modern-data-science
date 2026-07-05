@@ -3,7 +3,7 @@
 
 # Module: Data Analytics
 
-Data analytics is related to the key step in the [data science process](../M03-BigData/README.md), and it includes techniques that produce synthesised knowledge from the organised information. Broadly speaking, there are four primary types of data analytics: descriptive analysis (similar to [EDA](../M03-DataManipulation/README.md)), diagnostic analysis, predictive analysis and patterns discovery. Each type has a different goal and a different place in the data analysis process. It should be noted that machine learning techniques, such as supervised learning, unsupervised learning and deep learning are all popular data analytics methods.
+Data analytics is related to the key step in the [data science process](../M02-BigData/README.md), and it includes techniques that produce synthesised knowledge from the organised information. Broadly speaking, there are four primary types of data analytics: descriptive analysis (similar to [EDA](../M03-DataManipulation/README.md)), diagnostic analysis, predictive analysis and patterns discovery. Each type has a different goal and a different place in the data analysis process. It should be noted that machine learning techniques, such as supervised learning, unsupervised learning and deep learning are all popular data analytics methods.
 
 In this module, you will learn the *predictive methods*, including classification methods, time series method **ARIMA**, the *diagnostic* anomaly detection method **Isolation Forest**, and the *pattern discovery* methods such as **Apriori**.  
 
@@ -24,6 +24,7 @@ In this module, you will learn the *predictive methods*, including classificatio
 - Rob Law, **Gang Li**, Davis Fong, and Xin Han. [Tourism demand forecasting: A deep learning approach](https://doi.org/10.1016/j.annals.2019.01.014). Annals of Tourism Research, January 2019.
 - Yishuo Zhang, **Gang Li**, Birgit Muskat, Rob Law, and Yating Yang. [Group pooling for deep tourism demand forecasting](https://doi.org/10.1016/j.annals.2020.102899). Annals of Tourism Research, 82:102899, 2020.
 - Yishuo Zhang, **Gang Li**, Birgit Muskat, Quan Vu and Rob Law. [Predictivity of tourism demand data](https://doi.org/10.1016/j.annals.2021.103234). Annals of Tourism Research, 2021.
+- Yishuo Zhang, Baobao Song, Xin Li, Rob Law, and **Gang Li**. [Imputation recovery tourism demand forecasting](https://doi.org/10.1016/j.annals.2026.104144). Annals of Tourism Research, 118, Article 104144, 2026.
 - Yishuo Zhang, **Gang Li**, Birgit Muskat, and Rob Law. [Tourism demand forecasting: A decomposed deep learning approach](https://dx.doi.org/10.1177/0047287520919522). Journal of Travel Research, 2020.
 
 ##### Pattern Mining

@@ -16,7 +16,7 @@ If you decide to self-host the data science platform, please consider:
 - You don't want to pollute your local environment. 
   >Also, because ML-related packages are quite brittle when it comes to dependencies, you want an environment manager for your packages. Just figuring out which to use will take you a while.
 
-For this part, we only introduce the [`Jupyter`](https://jupyter.org/) notebook environment install and setup. In a later module [M04F-Spark](../M04-DataManipulation/M04F-Spark.md), you will complete this with the installation of [`Apache Spark`](https://spark.apache.org/), which is our selected platform for big data analysis and already available in [`Google Colab`](M01A-Platforms-I.md).
+For this part, we only introduce the [`Jupyter`](https://jupyter.org/) notebook environment install and setup. Later data-manipulation activities use [`Apache Spark`](https://spark.apache.org/) for big data analysis, and Spark is already available in [`Google Colab`](M01A-Platforms-I.md).
 
 
 ## Self-Hosting `Jupyter` Server on `Windows`/`Mac`
@@ -74,4 +74,3 @@ https://deakin.zoom.us/rec/share/9oH99q-bUM7lS9-qiAnKuXigq-H3Uf5GecfelWU0Ql4THtc
 - [How to install (py)Spark on MacOS (late 2020)](https://maelfabien.github.io/bigdata/SparkInstall/)
 - [Install Spark on Windows Laptop for Development](https://www.hackdeploy.com/install-spark-on-windows-laptop-for-development/)
 - [How to Run PySpark in a Jupyter Notebook](https://www.hackdeploy.com/how-to-run-pyspark-in-a-jupyter-notebook/)
-
