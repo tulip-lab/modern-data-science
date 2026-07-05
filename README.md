@@ -19,7 +19,7 @@
 
 # Modern Data Science
 
-- This *course* (*unit*) was originally designed for various **elite class** Bachelor students and Master students in some top Asia Pacific universities, including [Deakin University](https://www.deakin.edu.au) ([SIT742](https://www.deakin.edu.au/courses/unit?unit=SIT742)), the partner university [Southwest University](https://www.swu.edu.cn) (since 2015), and [University of Science and Technology Beijing](https://www.ustb.edu.cn) etc.
+- This *course* (*unit*) was originally designed for various **elite class** Bachelor students and Master students in some top Asia Pacific universities, including [Deakin University](https://www.deakin.edu.au) ([SIT742](https://www.deakin.edu.au/courses/unit?unit=SIT742)), the partner university [Southwest University](https://www.swu.edu.cn) (since 2015), and [University of Science and Technology Beijing](https://www.ustb.edu.cn) (since 2025) etc.
 - Materials in this module include resources collected from various open-source online repositories.
 - If you found any issue/bug for this document, please submit an issue at [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/Modern-Data-Science)](https://github.com/tulip-lab/Modern-Data-Science/issues)
 - Prerequisite unit :point_right: : [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Math--Foundations-brightgreen?style=plastic)](https://github.com/tulip-lab/math-foundation-for-data-scientists)
