@@ -22,7 +22,7 @@ Unless otherwise stated on this page, follow the public SIT742 2026 Assignment 2
 | Basis | Public SIT742 2026 Assignment 2 |
 | Mode | Group |
 | Group size | No more than 4 students |
-| Due date | Saturday, 8 August 2026, unless further changed |
+| Due date | Saturday, 22 August 2026, unless further changed |
 | Submission platform | Email to Prof. Gang Li at `gangli@duck.com`; after successful submission, students should receive an email acknowledgement from Prof. Gang Li within 48 hours |
 | Required files | Completed notebook, exported PDF, final forecast CSV, and group video/presentation evidence if required |
 | File naming | Use the filename pattern below |
