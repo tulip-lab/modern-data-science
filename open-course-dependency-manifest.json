@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "snapshot_date": "2026-07-26",
+  "scope": "modern-data-science/",
+  "repository_status": "multi_institution_delivery_index_not_yet_independent_open_course",
+  "product_identity_status": "maintainer_decision_required",
+  "governance_files_excluded_from_inventory": [
+    "OPEN-COURSE-READINESS.md",
+    "open-course-dependency-manifest.json"
+  ],
+  "inventory": {
+    "tracked_file_count": 47,
+    "markdown_file_count": 25,
+    "image_file_count": 21,
+    "notebook_file_count": 0,
+    "licence_file_count": 0,
+    "tracked_size_bytes": 4683694
+  },
+  "dependency_summary": {
+    "markdown_files_with_institution_partner_or_sit742_markers": 24,
+    "institution_partner_or_sit742_marker_occurrences": 167,
+    "sit742_url_occurrences": 51,
+    "markdown_files_with_sit742_urls": 11,
+    "root_sit742_practical_notebook_links": 25,
+    "sit742_path_reference_occurrences": 38,
+    "sit742_path_references_resolving_on_named_branch": 32,
+    "sit742_path_references_missing_on_named_branch": 6,
+    "external_handout_link_occurrences": 24,
+    "distinct_external_handout_links": 21,
+    "deakin_zoom_link_occurrences": 4,
+    "branch_bearing_url_occurrences": {
+      "main": 31,
+      "master": 4,
+      "develop": 28
+    },
+    "repository_local_markdown_targets": 77,
+    "broken_repository_local_markdown_targets": 0
+  },
+  "sit742_practical_dependencies": {
+    "M01-Induction": 0,
+    "M02-Python": 6,
+    "M03-BigData": 3,
+    "M04-DataManipulation": 6,
+    "M05-DataAnalytics": 5,
+    "M06-Advanced": 5
+  },
+  "module_maturity": [
+    {
+      "path": "M01-Induction/",
+      "markdown_files": 5,
+      "local_images": 0,
+      "status": "offering_bound",
+      "primary_gaps": [
+        "institution_specific_induction",
+        "offering_specific_assessment_model",
+        "staff_and_support_dependencies"
+      ]
+    },
+    {
+      "path": "M02-Python/",
+      "markdown_files": 11,
+      "local_images": 21,
+      "status": "partial_self_study_with_external_practicals",
+      "primary_gaps": [
+        "sit742_notebook_dependency",
+        "deakin_recording_dependency",
+        "stale_branch_and_path_references"
+      ]
+    },
+    {
+      "path": "M03-BigData/",
+      "markdown_files": 1,
+      "local_images": 0,
+      "status": "reading_index_with_external_practicals",
+      "primary_gaps": [
+        "no_local_practical",
+        "no_explicit_learning_outcomes",
+        "external_handout_dependency"
+      ]
+    },
+    {
+      "path": "M04-DataManipulation/",
+      "markdown_files": 1,
+      "local_images": 0,
+      "status": "reading_index_with_external_practicals",
+      "primary_gaps": [
+        "no_local_practical",
+        "no_explicit_learning_outcomes",
+        "external_handout_dependency"
+      ]
+    },
+    {
+      "path": "M05-DataAnalytics/",
+      "markdown_files": 1,
+      "local_images": 0,
+      "status": "reading_index_with_external_practicals",
+      "primary_gaps": [
+        "no_local_practical",
+        "no_explicit_learning_outcomes",
+        "external_handout_dependency"
+      ]
+    },
+    {
+      "path": "M06-Advanced/",
+      "markdown_files": 2,
+      "local_images": 0,
+      "status": "partial_reference_module_with_external_practicals",
+      "primary_gaps": [
+        "sit742_notebook_dependency",
+        "limited_local_activity_sequence",
+        "external_handout_dependency"
+      ]
+    },
+    {
+      "path": "assessments/",
+      "markdown_files": 3,
+      "local_images": 0,
+      "status": "active_offering_bound",
+      "primary_gaps": [
+        "dated_partner_assessment",
+        "submission_channel_dependency",
+        "active_sit742_assessment_dependency"
+      ]
+    }
+  ],
+  "known_broken_sit742_references": [
+    {
+      "source": "M02-Python/M02E-POP-OOP.md",
+      "reason": "filename_capitalisation_mismatch"
+    },
+    {
+      "source": "M02-Python/M02F-Files.md",
+      "occurrences": 4,
+      "reason": "absent_master_branch"
+    },
+    {
+      "source": "assessments/2026/ustb/USTB-2026-Assignment-Group-Forecasting-Project.md",
+      "reason": "retired_sit742_mase_guide_path"
+    }
+  ],
+  "governance": {
+    "content_moved_in_this_audit": false,
+    "content_rewritten_in_this_audit": false,
+    "assessment_changed_in_this_audit": false,
+    "licensing_changed_in_this_audit": false,
+    "private_material_detected": false
+  }
+}
