@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "institution": {
+    "id": "ustb",
+    "name": "University of Science and Technology Beijing"
+  },
+  "unit": {
+    "id": "MDS",
+    "name": "Modern Data Science"
+  },
+  "offering": "2026",
+  "status": "active",
+  "common_core_version": "581ee2485eb6d2b497a8860c26fd7080df1681d6",
+  "modules": ["M01", "M02", "M03", "M04", "M05", "M06"],
+  "public_assessment_artifacts": [
+    {
+      "classification": "brief",
+      "path_or_url": "offerings/ustb/modern-data-science/2026/assessment/USTB-2026-Assignment-Group-Forecasting-Project.md",
+      "canonical_source": "offerings/ustb/modern-data-science/2026/assessment/USTB-2026-Assignment-Group-Forecasting-Project.md"
+    },
+    {
+      "classification": "brief",
+      "path_or_url": "https://github.com/tulip-lab/sit742/blob/develop/Assessment/2026/A2/SIT742-2026T2-A2-Specification.md",
+      "canonical_source": "https://github.com/tulip-lab/sit742/blob/develop/Assessment/2026/A2/SIT742-2026T2-A2-Specification.md"
+    },
+    {
+      "classification": "starter_code",
+      "path_or_url": "https://github.com/tulip-lab/sit742/blob/develop/Assessment/2026/A2/SIT742-2026T2-A2-Starter.ipynb",
+      "canonical_source": "https://github.com/tulip-lab/sit742/blob/develop/Assessment/2026/A2/SIT742-2026T2-A2-Starter.ipynb"
+    },
+    {
+      "classification": "support_guide",
+      "path_or_url": "https://github.com/tulip-lab/sit742/blob/develop/Assessment/2026/A2/SIT742-2026T2-A2-Forecast-Measures-Guide.md",
+      "canonical_source": "https://github.com/tulip-lab/sit742/blob/develop/Assessment/2026/A2/SIT742-2026T2-A2-Forecast-Measures-Guide.md"
+    }
+  ],
+  "policy_links": [],
+  "supersedes": null,
+  "notes": "Institution policy links are pending confirmation through the approved USTB teaching channel."
+}

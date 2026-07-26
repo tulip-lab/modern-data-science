@@ -1,27 +1,39 @@
-[![GitHub watchers](https://img.shields.io/badge/tulip--lab-Modern--Data--Science-brightgreen)](../README.md)
-[![GitHub watchers](https://img.shields.io/badge/Module-Induction-orange)](README.md)
+[![Modern Data Science](https://img.shields.io/badge/tulip--lab-Modern--Data--Science-brightgreen)](../README.md)
+[![Module Induction](https://img.shields.io/badge/Module-Induction-orange)](README.md)
 
-# :man_teacher: Meet the Unit Team
+# Learning Support and Communication
 
-## :mailbox_with_mail: Contacts
+Support is divided between repository-level questions and offering-specific questions.
 
-Unit team comprises:
+## Repository Questions
 
-| Role | Name  | Contact |
-| -------------- | ------------| ----- |
-| *Unit Chair* | [Gang Li](https://member.acm.org/~gangli) |   gangli@duck.com  |
-| Campus Coordinator (USTB) | Associate Professor *Xin Li* | details not revealed |
-| Campus Coordinator (SWU) | Dr *Yongpan Sheng* | details not revealed |
+Use the [Modern Data Science GitHub issues](https://github.com/tulip-lab/Modern-Data-Science/issues) for public questions about:
 
-If you are emailing to the unit team members, please ensure that the subject starts with `[MDS-Year]` (replace `Year` by the year such as 2023, 2024, etc), and clearly describe the inquired session or assessment task etc.
+- broken or unclear public learning material;
+- reproducible technical problems;
+- inaccessible public links;
+- suggested corrections or improvements.
 
-## :performing_arts: Social Network Platform
+Do not post personal information, student work, grades, credentials, private links, or active assessment answers in a public issue.
 
-We encourage all the unit related discussions to be done via GitHub
-[![GitHub issues](https://img.shields.io/github/issues/tulip-lab/Modern-Data-Science)](https://github.com/tulip-lab/Modern-Data-Science)
+## Offering-Specific Questions
 
-- Depending on specific cohorts, we may have a dedicated channel on popular social network platform for different universities.
-- Please watch out for any notice from your campus coordinator.
+Use the contact and communication channels published by your university offering for:
 
+- schedules and attendance;
+- assessment interpretation;
+- extensions, special consideration, and late submission;
+- group membership and contribution questions;
+- private or personal circumstances.
 
+The shared repository does not replace institution-approved policy, unit documentation, or confidential support channels. Start from the [offering index](../offerings/README.md) and follow the information for your institution, unit, and teaching period.
 
+## Asking an Effective Technical Question
+
+When it is safe to ask publicly, include:
+
+1. the module and page;
+2. the expected behaviour;
+3. the actual behaviour or error;
+4. the environment and relevant package versions;
+5. a minimal example that contains no private or assessment-sensitive content.

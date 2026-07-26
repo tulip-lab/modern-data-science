@@ -1,10 +1,12 @@
 # Open-Course Readiness
 
-Snapshot date: 2026-07-26
+Baseline snapshot date: 2026-07-26
 
-This document records the current readiness of this repository for use by independent learners. It is an inventory and dependency audit, not a claim that the repository is already a self-contained open course.
+This document records the Phase 5 readiness baseline. It is an inventory and dependency audit, not a claim that the repository is a self-contained open course.
 
 The machine-readable snapshot is in [open-course-dependency-manifest.json](open-course-dependency-manifest.json).
+
+Since the baseline was recorded, Phase 6 has added the shared-hub governance, common-core learning outcomes, offering-manifest schema, repository licensing boundary, and independent navigation. It has also repaired the six SIT742 path references identified below. The baseline counts remain unchanged in the snapshot manifest for audit traceability.
 
 ## Current Position
 

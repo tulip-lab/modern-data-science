@@ -1,68 +1,47 @@
-[![GitHub watchers](https://img.shields.io/badge/tulip--lab-Modern--Data--Science-brightgreen)](../README.md)
-[![GitHub watchers](https://img.shields.io/badge/Module-Induction-orange)](README.md)
+[![Modern Data Science](https://img.shields.io/badge/tulip--lab-Modern--Data--Science-brightgreen)](../README.md)
+[![Module Induction](https://img.shields.io/badge/Module-Induction-orange)](README.md)
 
-# :sunny: Unit Assessment
+# Assessment Across Offerings
 
-## :secret: Modular assessment
+The shared common core does not define one universal graded assessment plan. Each university and teaching period may select different modules, learning outcomes, tasks, weightings, deadlines, collaboration rules, submission systems, and policy requirements.
 
-The modular structure ties in closely to the unit assessment:
+## Finding Current Requirements
 
-- In order to achieve a `Pass` in this unit, all :three: [core modules](M01C-Logistics.md#core-modules) must be satisfactorily completed.
-- If you would like to achieve a higher grade than a `Pass`, (e.g. a `Credit`, `Distinction` or `High Distinction`) you will need to complete some [advanced topics](M01C-Logistics.md#advanced-modules), as well as some higher level study in the extra readings in the core and advanced modules ![Readings](https://img.shields.io/badge/MDS-Readings-red).
+1. Open the [offering index](../offerings/README.md).
+2. Select your institution, unit, and teaching period.
+3. Follow the offering's public assessment links and institution-approved policy sources.
+4. Treat material marked `superseded` or `archived` as historical reference only.
 
-Structuring the unit assessment this way ensures the grade you receive has a real meaning. A `Pass` reflects that *you have satisfactorily mastered all required learning*, while a higher grade indicates that *you've achieved above and beyond this basic understanding*.
+Current public offering:
 
-Explanation of grades
+- [USTB Modern Data Science 2026](../offerings/ustb/modern-data-science/2026/README.md)
 
-- `Pass`: Complete all [core modules](M01C-Logistics.md#core-modules).
-- `Credit`: Complete all [core modules](M01C-Logistics.md#core-modules), plus one assessment task which is related to one [advanced topic](M01C-Logistics.md#advanced-modules) or extra reading.
-- `Distinction`: Complete all [core modules](M01C-Logistics.md#core-modules), plus two assessment tasks which are related to [advanced topics](M01C-Logistics.md#advanced-modules) or extra reading (this includes the ones you would complete for a `Credit`). You must also define and research an additional topic. The teaching team will assist you in validating an appropriate topic for study.
-- `High Distinction`: Complete all [core modules](M01C-Logistics.md#core-modules), plus two assessment tasks which are related to [advanced topics](M01C-Logistics.md#advanced-modules) or extra reading, plus define and research an additional topic (that is, fulfil all the criteria for a `distinction`). You must also write a report and present (virtual presentations) on a more advanced topic (which can be the one you studied from the `Distinction`). The teaching team will provide guidance on how to do this.
+Historical references:
 
-## :orange_book: Assessment Handbook
+- [Assessment archive](../assessments/archive/README.md)
 
-- **Current: [USTB 2026 Assignment: Group Forecasting Project](../assessments/2026/ustb/USTB-2026-Assignment-Group-Forecasting-Project.md)**
+## Shared Assessment Principles
 
-Archived and reference materials:
+Although formal requirements differ, well-designed Modern Data Science assessment should:
 
-- [Assessment archive index](../assessments/archive/README.md)
-- [2025 USTB assessment handbook](https://github.com/tulip-lab/handouts/blob/main/mds/assessment/MDS2025USTB.pdf)
-- [2024 SIT742 assessment handout](https://github.com/tulip-lab/handouts/blob/main/mds/SIT742M00A.pdf)
+- measure stated learning outcomes directly;
+- require reproducible data and analysis workflows;
+- make evaluation criteria transparent;
+- require evidence of interpretation, limitations, and responsible data use;
+- specify permitted collaboration and AI use through the institution's current policy;
+- provide formative feedback before higher-stakes work where practical.
 
+Public briefs, starter materials, datasets, and submission templates may appear in an offering layer. Solutions, marking guides, moderation notes, hidden checks, student work, grades, and identifiable feedback must remain outside this public repository.
 
-### :spiral_calendar: Assessment Due Dates
+## Getting Help
 
-It is expected that you will submit each assessment task on time. You will not be allowed to submit everything at the last moment, because we will provide you with feedback that you will be expected to use in future module assessments. Follow the dates, platform, and file-naming rules listed for your offering in the assessment index. If you find that you are having trouble meeting your deadlines, speak to the [Campus Coordinator](M01B-Team.md#unit-team-contacts).
+Use your offering's approved channel for questions about task interpretation, deadlines, submission, extensions, group work, or personal circumstances. Use public [GitHub issues](https://github.com/tulip-lab/Modern-Data-Science/issues) only for repository-level problems that do not expose assessment answers or private information.
 
-So now you should have a general idea about what MDS is and what you need to do to pass this unit.
+## Activity
 
+Locate your offering manifest and identify:
 
-##  :scream_cat: Getting Help
-
-As mentioned above, we can provide you with a greater level of support, particularly if you're feeling stuck. Our aim is for that support to be there at the time you need it. It's quite normal to meet some difficulties from time to time. If you already knew how to do everything, there wouldn't be much learning happening, would there? If you are having troubles going through some content, here are some of the things that you can do:
-
-### :koko: Have issues with assumed knowledge?
-
--  Ask it under the relevant topic in the discussion forums (check the previous discussions first: your question might already have been answered)
-
-
-### :koko: Have a question?
-
-We encourage all the unit related discussions to be done via GitHub
-[![GitHub issues](https://img.shields.io/github/issues/tulip-lab/Modern-Data-Science)](https://github.com/tulip-lab/Modern-Data-Science)
-- You don't have to wait to be in class, or for the next help hub session to ask your question, and you are likely to get a prompt answer by other students or the teaching staff.
-- You might find that your questions have already been asked and answered, and if not, your question is likely to help others who struggle with the same issues.
-
-### :koko: Need a study-mate, for group work, motivation or to bounce ideas?
-
-- The assessment task might be a group work. In case that a group is needed, you can either post messages in the discussion, or form a group with peers when attending the class or practicals.
-#### :koko: Have a more personal issue affecting your studies?
-
-- [teaching team](M01B-Team.md#unit-team-contacts) - you can reach out to the teaching team directly by email, particularly in case of more personal problems.
-- Email the unit chair.
-
-
-## :biking_man: Activity
-
-![GitHub watchers](https://img.shields.io/badge/MDS-Learning--Activity-yellow)
-> 1. Access this year's assessment tasks, and compare it with those demonstration tasks covered in practical classes. Make a study plan for your `MDS` study, and think about forming a team for group assessment.
+1. the common-core version and modules used;
+2. the assessment artefacts listed as public;
+3. the canonical source for each artefact;
+4. the official policy links or any missing policy information requiring confirmation.
