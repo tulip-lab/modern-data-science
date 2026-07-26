@@ -85,9 +85,9 @@ The assessment is mainly aimed at assessing the students' achievement of the *Un
 
 Assessment requirements vary by offering. Current and archived public assessment references are organised in the [assessment index](assessments/README.md), and future offerings follow the [offering-layer governance](offerings/README.md).
 
-The current 2026 USTB assessment page is:
+The current 2026 USTB offering is:
 
-- [USTB 2026 Assignment: Group Forecasting Project](assessments/2026/ustb/USTB-2026-Assignment-Group-Forecasting-Project.md)
+- [USTB Modern Data Science 2026](offerings/ustb/modern-data-science/2026/README.md)
 
 Older assignment handbooks remain available only as archive/reference materials and should not be treated as current requirements.
 

@@ -3,7 +3,7 @@
   "identity": "modern_data_science_common_core",
   "status": "transition",
   "snapshot_date": "2026-07-26",
-  "path_policy": "current_module_paths_preserved_pending_review",
+  "path_policy": "current_module_paths_preserved_and_generalised_in_place",
   "learning_outcomes": [
     {"id": "CLO1", "verb": "explain", "focus": "modern data science workflow"},
     {"id": "CLO2", "verb": "use", "focus": "Python and notebook-based reproducible environments"},
@@ -13,7 +13,7 @@
     {"id": "CLO6", "verb": "assess", "focus": "privacy, responsible AI use, provenance, and limitations"}
   ],
   "modules": [
-    {"id": "M01", "path": "M01-Induction/", "outcomes": ["CLO1"], "maturity": "offering_specific_separation_required"},
+    {"id": "M01", "path": "M01-Induction/", "outcomes": ["CLO1"], "maturity": "generalised_common_core_entry"},
     {"id": "M02", "path": "M02-Python/", "outcomes": ["CLO2"], "maturity": "partial_common_core"},
     {"id": "M03", "path": "M03-BigData/", "outcomes": ["CLO1", "CLO3"], "maturity": "reading_index_external_practicals"},
     {"id": "M04", "path": "M04-DataManipulation/", "outcomes": ["CLO3", "CLO4"], "maturity": "reading_index_external_practicals"},

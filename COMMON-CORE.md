@@ -19,7 +19,7 @@ After completing the relevant common-core modules, learners should be able to:
 
 | Module | Common-core contribution | Current maturity |
 | --- | --- | --- |
-| [M01 Induction](M01-Induction/README.md) | Orientation to the field and learning model | Offering-specific material requires separation |
+| [M01 Induction](M01-Induction/README.md) | Orientation to the field, learning model, support, and offering navigation | Generalised common-core entry |
 | [M02 Python](M02-Python/README.md) | Python and notebook foundations | Substantial content; external practical dependencies remain |
 | [M03 Big Data](M03-BigData/README.md) | Data science, acquisition, storage, and open data | Reading index; practical sequence remains external |
 | [M04 Data Manipulation](M04-DataManipulation/README.md) | Wrangling, EDA, MapReduce, and Spark | Reading index; practical sequence remains external |

@@ -8,7 +8,10 @@ Assessment requirements vary by offering. Use the current section for the active
 
 ### USTB
 
-- [USTB 2026 Assignment: Group Forecasting Project](2026/ustb/USTB-2026-Assignment-Group-Forecasting-Project.md)
+- [USTB Modern Data Science 2026 offering](../offerings/ustb/modern-data-science/2026/README.md)
+- [USTB 2026 Assignment: Group Forecasting Project](../offerings/ustb/modern-data-science/2026/assessment/USTB-2026-Assignment-Group-Forecasting-Project.md)
+
+The former `2026/ustb/` assignment path remains as a compatibility pointer.
 
 ## Archive and Reference Materials
 

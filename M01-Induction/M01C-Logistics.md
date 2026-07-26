@@ -1,40 +1,51 @@
-[![GitHub watchers](https://img.shields.io/badge/tulip--lab-Modern--Data--Science-brightgreen)](../README.md)
-[![GitHub watchers](https://img.shields.io/badge/Module-Induction-orange)](README.md)
+[![Modern Data Science](https://img.shields.io/badge/tulip--lab-Modern--Data--Science-brightgreen)](../README.md)
+[![Module Induction](https://img.shields.io/badge/Module-Induction-orange)](README.md)
 
-# Unit Logistics
+# Common-Core Learning Structure
 
-## :dart: Unit Learning Outcomes
+## Common Learning Outcomes
 
-- **ULO1** *Develop knowledge of and discuss new and emerging fields in data science*
-- **ULO2** *Describe advanced constituents and underlying theoretical foundation of data science*
-- **ULO3** *Evaluate modern data analytics and its implication in real-world applications*
-- **ULO4** *Use appropriate platform to collect and process relatively large datasets*
-- **ULO5** *Collect, model and conduct inferential as well predictive tasks from data*
+After completing the relevant modules, learners should be able to:
 
-## :microscope: Modules
+1. **Explain** the roles of data acquisition, storage, wrangling, analytics, and governance in a modern data science workflow.
+2. **Use** Python and notebook-based environments to manipulate data and produce reproducible evidence.
+3. **Acquire, clean, transform, and explore** structured and semi-structured data.
+4. **Apply** distributed data-processing concepts and tools to appropriately scoped problems.
+5. **Build and evaluate** selected predictive, anomaly-detection, forecasting, and pattern-discovery methods.
+6. **Assess** privacy, responsible AI use, provenance, and limitations when communicating data-driven findings.
 
-To facilitate your study, we have organised the course into a structure where each focused topic area is set up as a module. In each module, you are provided with the notes, some video explanations or demonstrations, as well as learning activities.
+These common outcomes describe the reusable learning core. Each university offering determines its approved unit learning outcomes and assessment alignment.
 
-Within this unit, you'll find :one: induction module, :one: [preliminary module](#preliminary-modules), :three: [core modules](#core-modules) and :one: [advanced module](#advanced-modules). We'll explain each of these, and how they relate to your unit assessment.
+## Modules
 
-We would like you to go through the modules at the time of your ease, attend the lectures, and then work on the `assessment` tasks. The first thing you'll notice when you begin working through the modules is that each has a consistent format, featuring:
+The common core uses stable module entry paths:
 
-- A `module` `README.md` page: here you'll find the overview for the module. It is especially important that you make note of these as they explain the sessions structure and the supplementary resources for the module. In order to successfully complete each module, you will need to demonstrate that you have achieved each of these objectives.
-- A series of `topic` pages: these provide the range of learning materials.
-- A series of `learning activities`: these provide the range of learning activities that will enable you to achieve the learning objectives, and those activities are corresponding to the session topic. You are expected to complete those learning activities on your own, but if there is any difficulty, you can ask the tutors in the practical class.
+- [M01 Induction](README.md)
+- [M02 Python Foundations](../M02-Python/README.md)
+- [M03 Big Data](../M03-BigData/README.md)
+- [M04 Data Manipulation](../M04-DataManipulation/README.md)
+- [M05 Data Analytics](../M05-DataAnalytics/README.md)
+- [M06 Advanced Topics](../M06-Advanced/README.md)
 
-### :chains: Preliminary Module
+### Preliminary Module
 
-MDS assumes no prior `Python` experience, and any prior knowledge on programming will be a bonus: if you already have completed several data science units such as Deakin's `SIT720`, `SIT744`, you should be reasonably confident about your `Python` programming skills.
+M02 supports learners who need Python and notebook foundations before the data science modules. Learners with equivalent experience may review it selectively.
 
-In case that you have no `Python` experience, the [preliminary module - Module 2](../M02-Python/README.md) will prepare you in this aspect and enable you to continue into the [core modules](#core-modules).
+### Core Modules
 
-### :bomb: Core Modules
+M03, M04, and M05 cover data acquisition and storage, data preparation and distributed processing, and selected analytics methods.
 
-At the heart of the unit are three core modules. These core modules address the big data concepts and techniques that are relevant and important for data scientists and data analysts. Therefore, it is an essential requirement of this unit that all core modules are completed.
+### Advanced Module
 
-### :infinity: Advanced Module
+M06 extends the sequence into privacy, responsible data use, differential privacy, generative models, and related advanced topics.
 
-In additional to the [core modules](#core-modules), there are also a series of advanced topics. These topics are **optional** and organised into the [advanced module - Module 6](../M06-Advanced/README.md). Those topics either build on the information in the [core modules](#core-modules) by exploring concepts in greater depth, or introduce new, more specialised topics.
+## Study Modes
 
-They are there for those wishing to expand their knowledge or explore specific topics in further detail. Depending on your course, you may like to choose those advanced topics which are most relevant.
+The materials can support:
+
+- scheduled lectures and practical classes;
+- guided workshops;
+- independent study;
+- selected modules embedded in another unit.
+
+Workload, required activities, practical support, and assessment vary by offering. Consult the relevant [offering layer](../offerings/README.md) rather than inferring current requirements from the common-core structure.

@@ -147,7 +147,10 @@
     "shared_hub_governance_added": true,
     "common_core_outcomes_added": true,
     "offering_manifest_schema_added": true,
-    "repository_licensing_boundary_added": true
+    "repository_licensing_boundary_added": true,
+    "current_module_paths_preserved_and_generalised_in_place": true,
+    "active_ustb_offering_path": "offerings/ustb/modern-data-science/2026/",
+    "legacy_ustb_assessment_pointer_preserved": true
   },
   "governance": {
     "content_moved_in_this_audit": false,

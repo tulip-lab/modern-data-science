@@ -51,7 +51,7 @@
         "required": ["classification", "path_or_url", "canonical_source"],
         "properties": {
           "classification": {
-            "enum": ["brief", "public_rubric", "dataset", "starter_code", "submission_template"]
+            "enum": ["brief", "public_rubric", "dataset", "starter_code", "submission_template", "support_guide"]
           },
           "path_or_url": {"type": "string", "minLength": 1},
           "canonical_source": {"type": "string", "minLength": 1}

@@ -17,6 +17,10 @@ Each offering must:
 - link to current institution-approved policy sources;
 - exclude private assessment and student materials.
 
-The current USTB 2026 assessment remains under [`assessments/2026/ustb/`](../assessments/2026/ustb/) until its reviewed migration treatment is implemented.
+## Current Offerings
+
+- [USTB Modern Data Science 2026](ustb/modern-data-science/2026/README.md)
+
+The previous `assessments/2026/ustb/` assignment path remains as a compatibility pointer to the canonical offering-layer page.
 
 See [HUB-GOVERNANCE.md](../HUB-GOVERNANCE.md) for public/private boundaries and release requirements.

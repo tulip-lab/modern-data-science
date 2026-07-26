@@ -9,7 +9,7 @@ It has two public layers:
 1. **Common core** — reusable module content, learning outcomes, activities, and references.
 2. **Offering layers** — university-, unit-, and teaching-period-specific delivery and assessment information.
 
-The current module paths remain the common-core candidates until a reviewed migration decision is implemented.
+The current `M01-Induction/` through `M06-Advanced/` paths are the stable common-core entry points. Institution-specific delivery content is separated into offering layers rather than moving those module roots.
 
 ## Common-Core Rules
 
