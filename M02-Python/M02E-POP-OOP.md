@@ -414,7 +414,6 @@ i.e. **SchoolMember** class.
 ## :biking_man: Activity
 ![GitHub watchers](https://img.shields.io/badge/MDS-Learning--Activity-yellow)
 
-> 1. Load and run the notebook [M02E-PoP-OOP.ipynb](https://github.com/tulip-lab/sit742/blob/main/Jupyter/M02-Python/M02E-PoP-OOP.ipynb) from [![GitHub watchers](https://img.shields.io/badge/tulip--lab-sit742-brightgreen?style=plastic)](https://github.com/tulip-lab/sit742), and
+> 1. Load and run the notebook [M02E-POP-OOP.ipynb](https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M02-Python/M02E-POP-OOP.ipynb) from [![GitHub watchers](https://img.shields.io/badge/tulip--lab-sit742-brightgreen?style=plastic)](https://github.com/tulip-lab/sit742), and
 > 2. try different variants of the source code and see their effects.
-
 

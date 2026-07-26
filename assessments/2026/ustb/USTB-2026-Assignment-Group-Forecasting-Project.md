@@ -12,7 +12,7 @@ Unless otherwise stated on this page, follow the public SIT742 2026 Assignment 2
 
 - Assignment Specification: [SIT742 2026 A2 Specification](https://github.com/tulip-lab/sit742/blob/develop/Assessment/2026/A2/SIT742-2026T2-A2-Specification.md)
 - Starter Notebook: [SIT742 2026 A2 Starter Notebook](https://github.com/tulip-lab/sit742/blob/develop/Assessment/2026/A2/SIT742-2026T2-A2-Starter.ipynb)
-- MASE Guide: [SIT742 2026 A2 MASE Guide](https://github.com/tulip-lab/sit742/blob/develop/Assessment/2026/A2/SIT742-2026T2-A2-MASE-Guide.md)
+- Forecast Measures Guide: [SIT742 2026 A2 Forecast Measures Guide](https://github.com/tulip-lab/sit742/blob/develop/Assessment/2026/A2/SIT742-2026T2-A2-Forecast-Measures-Guide.md)
 
 ## USTB-Specific Requirements
 

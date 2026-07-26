@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "identity": "modern_data_science_common_core",
+  "status": "transition",
+  "snapshot_date": "2026-07-26",
+  "path_policy": "current_module_paths_preserved_pending_review",
+  "learning_outcomes": [
+    {"id": "CLO1", "verb": "explain", "focus": "modern data science workflow"},
+    {"id": "CLO2", "verb": "use", "focus": "Python and notebook-based reproducible environments"},
+    {"id": "CLO3", "verb": "acquire_clean_transform_explore", "focus": "structured and semi-structured data"},
+    {"id": "CLO4", "verb": "apply", "focus": "distributed data-processing concepts and tools"},
+    {"id": "CLO5", "verb": "build_and_evaluate", "focus": "selected data analytics methods"},
+    {"id": "CLO6", "verb": "assess", "focus": "privacy, responsible AI use, provenance, and limitations"}
+  ],
+  "modules": [
+    {"id": "M01", "path": "M01-Induction/", "outcomes": ["CLO1"], "maturity": "offering_specific_separation_required"},
+    {"id": "M02", "path": "M02-Python/", "outcomes": ["CLO2"], "maturity": "partial_common_core"},
+    {"id": "M03", "path": "M03-BigData/", "outcomes": ["CLO1", "CLO3"], "maturity": "reading_index_external_practicals"},
+    {"id": "M04", "path": "M04-DataManipulation/", "outcomes": ["CLO3", "CLO4"], "maturity": "reading_index_external_practicals"},
+    {"id": "M05", "path": "M05-DataAnalytics/", "outcomes": ["CLO5"], "maturity": "reading_index_external_practicals"},
+    {"id": "M06", "path": "M06-Advanced/", "outcomes": ["CLO6"], "maturity": "partial_common_core"}
+  ],
+  "governance": {
+    "institution_specific_delivery_allowed": false,
+    "active_assessment_instructions_allowed": false,
+    "offering_specific_policy_wording_allowed": false,
+    "private_material_allowed": false
+  }
+}

@@ -4,23 +4,18 @@
 [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/Modern-Data-Science)](https://github.com/tulip-lab/Modern-Data-Science/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/Modern-Data-Science)](https://github.com/tulip-lab/Modern-Data-Science/pulls)
 
-[![GitHub watchers](https://img.shields.io/badge/tulip--lab-sit742-brightgreen?style=plastic)](https://github.com/tulip-lab/sit742)
-![GitHub Release Date](https://img.shields.io/github/release-date/tulip-lab/sit742)
-![GitHub commits since latest release (by SemVer)](https://img.shields.io/github/commits-since/tulip-lab/sit742/latest)
-[![GitHub issues](https://img.shields.io/github/issues/tulip-lab/sit742)](https://github.com/tulip-lab/sit742/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/sit742)](https://github.com/tulip-lab/sit742/pulls)
-
-
-[![GitHub watchers](https://img.shields.io/github/watchers/tulip-lab/sit742.svg?style=social&label=Watch)](https://GitHub.com/tulip-lab/Modern-Data-Science/watchers/)
-[![GitHub forks](https://img.shields.io/github/forks/tulip-lab/sit742.svg?style=social&label=Fork)](https://GitHub.com/tulip-lab/Modern-Data-Science/network/)
-[![GitHub stars](https://img.shields.io/github/stars/tulip-lab/sit742.svg?style=social&label=Star)](https://GitHub.com/tulip-lab/Modern-Data-Science/stargazers/)
+[![GitHub watchers](https://img.shields.io/github/watchers/tulip-lab/Modern-Data-Science.svg?style=social&label=Watch)](https://github.com/tulip-lab/Modern-Data-Science/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/tulip-lab/Modern-Data-Science.svg?style=social&label=Fork)](https://github.com/tulip-lab/Modern-Data-Science/network/)
+[![GitHub stars](https://img.shields.io/github/stars/tulip-lab/Modern-Data-Science.svg?style=social&label=Star)](https://github.com/tulip-lab/Modern-Data-Science/stargazers/)
 
 ----
 
 # Modern Data Science
 
-- This *course* (*unit*) was originally designed for various **elite class** Bachelor students and Master students in some top Asia Pacific universities, including [Deakin University](https://www.deakin.edu.au) ([SIT742](https://www.deakin.edu.au/courses/unit?unit=SIT742)), the partner university [Southwest University](https://www.swu.edu.cn) (since 2015), and [University of Science and Technology Beijing](https://www.ustb.edu.cn) (since 2025) etc.
+- This repository is a shared multi-institution delivery hub with a reusable Modern Data Science common core and explicit offering-specific layers.
+- The materials have supported Bachelor and Master students at universities including [Deakin University](https://www.deakin.edu.au), [Southwest University](https://www.swu.edu.cn), and [University of Science and Technology Beijing](https://www.ustb.edu.cn).
 - Materials in this module include resources collected from various open-source online repositories.
+- Original code uses the [MIT License](LICENSE), original narrative teaching content uses [CC BY-NC-SA 4.0](CONTENT-LICENSE.md), and third-party resources retain source-specific terms. See [LICENSING.md](LICENSING.md).
 - If you found any issue/bug for this document, please submit an issue at [![GitHub issues](https://img.shields.io/github/issues/tulip-lab/Modern-Data-Science)](https://github.com/tulip-lab/Modern-Data-Science/issues)
 - Prerequisite unit :point_right: : [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Math--Foundations-brightgreen?style=plastic)](https://github.com/tulip-lab/math-foundation-for-data-scientists)
 - Subsequent unit :point_right: : [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Pattern--Classification-brightgreen?style=plastic)](https://github.com/tulip-lab/pattern-classification)
@@ -30,6 +25,16 @@
 Prepared by :tulip: **[TULIP Lab](https://www.tulip.org.au/members)**
 
 ---
+
+## Start Here
+
+- [Common-core purpose and learning outcomes](COMMON-CORE.md)
+- [Shared-hub governance](HUB-GOVERNANCE.md)
+- [University and unit offering layers](offerings/README.md)
+- [Current and archived assessments](assessments/README.md)
+- [Licensing and third-party materials](LICENSING.md)
+- [Readiness and dependency audit](OPEN-COURSE-READINESS.md)
+
 ## :bulb: Content
 
 Designed primarily for aspiring data scientists, this *course* (aka *unit*) lays the foundational groundwork for modern methods, techniques, and applications in data science. Upon successful completion, students will be able to utilize distributed storage and computing platforms to process and analyze big data, employing contemporary techniques in data analytics.
@@ -47,11 +52,11 @@ Students will have access to a comprehensive range of subject materials, compris
 
 Additionally, students are encouraged to supplement their knowledge by conducting independent research, utilizing online resources or referring to textbooks that cover relevant information related to the topics under study.
 
-This unit needs a total of **44** class hours, including **22** hours lecturing, and **22** hours workshops, interactive discussion or student presentations.
+The complete sequence was originally designed around approximately **44** class hours. Each university and teaching period should publish its actual workload and schedule in its offering layer.
 
 ### :spiral_calendar: Module and Notebook Map
 
-The unit's module sequence is aligned with the public SIT742 notebook repository. The notebook column follows the public SIT742 notebook names so students can cross-reference the practical materials.
+The module sequence forms the candidate common core. During the current transition, the notebook column links to public SIT742 practicals as external references; those mutable `develop` resources are not canonical common-core artefacts.
 
 <details><summary> :secret: </summary>
 
@@ -78,7 +83,7 @@ The assessment is mainly aimed at assessing the students' achievement of the *Un
 
 #### :book: Assessment Plan
 
-Assessment requirements vary by offering. Current and archived public assessment references are organised in the [assessment index](assessments/README.md).
+Assessment requirements vary by offering. Current and archived public assessment references are organised in the [assessment index](assessments/README.md), and future offerings follow the [offering-layer governance](offerings/README.md).
 
 The current 2026 USTB assessment page is:
 
@@ -100,8 +105,8 @@ This course recommended several key references:
 Thanks goes to these wonderful people :tulip:
 
 
-<a href="https://github.com/tulip-lab/sit742/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=tulip-lab/sit742" />
+<a href="https://github.com/tulip-lab/Modern-Data-Science/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=tulip-lab/Modern-Data-Science" />
 </a>
 
 

@@ -140,6 +140,15 @@
       "reason": "retired_sit742_mase_guide_path"
     }
   ],
+  "post_baseline_remediation": {
+    "date": "2026-07-26",
+    "known_broken_sit742_reference_occurrences_repaired": 6,
+    "current_sit742_path_references_missing_on_named_branch": 0,
+    "shared_hub_governance_added": true,
+    "common_core_outcomes_added": true,
+    "offering_manifest_schema_added": true,
+    "repository_licensing_boundary_added": true
+  },
   "governance": {
     "content_moved_in_this_audit": false,
     "content_rewritten_in_this_audit": false,

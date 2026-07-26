@@ -13,7 +13,7 @@ We have obtained data via interaction with users in previous prac. Now let us ex
 
 You can open and use files for reading or writing by creating an object of the *file class*.  The *mode* that is specified for the file opening decides what you can do with the file: read, write or both. Then the file object's **read()** or **write()** method can be used to read from or write to the file. Finally, when you are finished with the file, you call the **close()** method to tell Python that you are done using the file.
 
-Here is an example. You can download the data file **[score.txt](https://github.com/tulip-lab/sit742/raw/master/Jupyter/data/score.txt)**, which includes data on students' score. The format of the data file is as follows:
+Here is an example. You can download the data file **[score.txt](https://raw.githubusercontent.com/tulip-lab/sit742/develop/Jupyter/data/score.txt)**, which includes data on students' score. The format of the data file is as follows:
 
 
 ```
@@ -30,17 +30,13 @@ For Online platforms such as Google Colab, it is important for you to get famili
 
 
 ```Python
-!pip install wget
-```
+from pathlib import Path
+from urllib.request import urlretrieve
 
-Then you can download the file into GPFS file system.
-
-
-```Python
-import wget
-
-link_to_data = 'https://github.com/tulip-lab/sit742/raw/master/Jupyter/data/score.txt'
-DataSet = wget.download(link_to_data)
+link_to_data = 'https://raw.githubusercontent.com/tulip-lab/sit742/develop/Jupyter/data/score.txt'
+local_data = Path('score.txt')
+urlretrieve(link_to_data, local_data)
+DataSet = str(local_data)
 
 print(DataSet)
 ```
@@ -127,15 +123,18 @@ import csv
 
 To read data from a **csv** file, use the **reader()** function to create a reader object. The **reader** function will take each line of the file and make a list containing all that line's columns. The following example reads the file and prints items on each row.
 
-Please download **[score.csv](https://github.com/tulip-lab/sit742/raw/master/Jupyter/data/score.csv)** file before running the following program.
+Please download **[score.csv](https://raw.githubusercontent.com/tulip-lab/sit742/develop/Jupyter/data/score.csv)** before running the following program.
 
 ```Python
 import csv          #import module before reading from CSV file
+from pathlib import Path
+from urllib.request import urlretrieve
 
-link_to_csv = 'https://raw.githubusercontent.com/tulip-lab/sit742/master/Jupyter/data/score.csv'
-csvdata = wget.download(link_to_csv)
+link_to_csv = 'https://raw.githubusercontent.com/tulip-lab/sit742/develop/Jupyter/data/score.csv'
+local_csv = Path('score.csv')
+urlretrieve(link_to_csv, local_csv)
 
-infile = open('/content/score.csv','r')
+infile = open(local_csv, 'r')
 incsv = csv.reader(infile, delimiter = ',')
 
 rowNum = 0
@@ -210,5 +209,4 @@ https://deakin.zoom.us/rec/share/x6Kl9QDf-29xd3Y_ZCvFXtcOKA5PTpuvK3gCZkRH7KphMPa
 ![GitHub watchers](https://img.shields.io/badge/MDS-Learning--Activity-yellow)
 > 1. Load and run the notebook [M02F-Files.ipynb](https://github.com/tulip-lab/sit742/blob/main/Jupyter/M02-Python/M02F-Files.ipynb) from [![GitHub watchers](https://img.shields.io/badge/tulip--lab-sit742-brightgreen?style=plastic)](https://github.com/tulip-lab/sit742), and
 > 2. try different variants of the source code and see their effects.
-
 
