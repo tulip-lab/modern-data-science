@@ -3,7 +3,9 @@
   "snapshot_date": "2026-07-26",
   "scope": "modern-data-science/",
   "repository_status": "multi_institution_delivery_index_not_yet_independent_open_course",
-  "product_identity_status": "maintainer_decision_required",
+  "product_identity_status": "selected",
+  "selected_product_identity": "shared_multi_institution_delivery_hub",
+  "product_identity_decision_date": "2026-07-26",
   "governance_files_excluded_from_inventory": [
     "OPEN-COURSE-READINESS.md",
     "open-course-dependency-manifest.json"
@@ -143,6 +145,8 @@
     "content_rewritten_in_this_audit": false,
     "assessment_changed_in_this_audit": false,
     "licensing_changed_in_this_audit": false,
-    "private_material_detected": false
+    "private_material_detected": false,
+    "future_structure_requires_separate_common_core_and_offering_layers": true,
+    "existing_paths_preserved_pending_implementation_review": true
   }
 }

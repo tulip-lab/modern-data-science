@@ -81,24 +81,19 @@ No repository licence file currently defines reuse rights for original code or t
 - assessment materials;
 - third-party readings or media.
 
-## Recommended Modernisation Sequence
+## Selected Product Direction
 
-After maintainers confirm the intended product identity:
+The selected direction is a **shared multi-institution delivery hub**.
+
+The repository will support a reusable learning core plus explicit university, unit, and offering layers. Institution-specific assessment, dates, submission rules, and policy references may remain part of the public hub when they are clearly scoped to one offering. Private solutions, marking guides, moderation notes, hidden checks, student work, grades, and identifiable feedback remain outside this public repository.
+
+The existing module and assessment paths remain unchanged by this audit. Later implementation should:
 
 1. define the repository licence and third-party-material boundary;
-2. separate reusable learning content from offering-specific delivery instructions;
+2. define a common learning core and a standard offering-layer manifest;
 3. preserve current module paths initially while adding module-level outcomes and learning sequences;
-4. replace mutable SIT742 dependencies with versioned, copied-with-permission, or independently maintained public resources;
-5. redesign practical activities for independent execution and self-checking;
-6. decide whether active partner assessment belongs in this repository, a separate delivery layer, or an archive;
-7. run accessibility, link, provenance, and independent-learner completion checks before claiming open-course readiness.
-
-## Product-Identity Decision Required
-
-Before broad content rewriting, maintainers should choose one primary identity:
-
-- an independent open course for external self-directed learners;
-- a shared multi-institution delivery hub with explicit offering layers;
-- a reference archive that points to separately maintained teaching resources.
-
-The choice determines how aggressively institution-specific content, SIT742 dependencies, and active assessments should be separated in later work.
+4. organise university-specific delivery material by institution, unit, and offering;
+5. keep one canonical source for every assessment artefact and record versioned dependencies;
+6. replace fragile branch and path dependencies with reviewed, stable references;
+7. archive superseded offerings without presenting them as current requirements;
+8. run accessibility, link, provenance, release-boundary, and offering-isolation checks.
